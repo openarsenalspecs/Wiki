@@ -1,0 +1,324 @@
+# Open Arsenal Wiki Specifications
+
+The specifications published on the Roxanne Ardary Wiki represent a broad collection of open standards, reference architectures, governance frameworks, AI systems, digital infrastructure models, and interoperability specifications designed to promote transparency, portability, self-hosting, and long-term organizational control. Covering areas such as artificial intelligence, blockchain, cybersecurity, digital identity, public infrastructure, finance, content management, governance, and enterprise systems, the specifications emphasize open implementation models that reduce dependency on proprietary vendors while enabling deployment across public, private, enterprise, academic, and government environments.
+
+All specifications are designed to be adaptable across diverse technical ecosystems and are intended to encourage collaboration, interoperability, and standards-based innovation. The AGPL licensing framework requires attribution to Roxanne Ardary, the originating specification source, when deployed, modified, or redistributed. However, Specification Branding Licenses may be negotiated with organizations that wish to deploy, commercialize, or integrate the specifications without attribution requirements, allowing enterprises, institutions, governments, and commercial operators to adopt the standards under customized branding and licensing arrangements while maintaining compliance with the underlying intellectual property and licensing terms.
+
+# Wiki Specs:
+
+- **AgoraTV**  
+[https://roxanneardary.com/agoratv/](https://roxanneardary.com/agoratv/)  
+An open-source, democratically owned global broadcasting platform that empowers independent voices through public media infrastructure, multilingual accessibility, and transparent governance.  
+
+- **Aivana**  
+[https://roxanneardary.com/aivana/](https://roxanneardary.com/aivana/)  
+A global AI-native, fully encrypted social network built on verified human identity, modular communication systems, and privacy-first design.  
+
+- **Alpha Risk Review**  
+[https://roxanneardary.com/alpha-risk-review/](https://roxanneardary.com/alpha-risk-review/)  
+A modular adversarial intelligence system that stress-tests business plans to reveal structural weaknesses, failure points, and the conditions required for success.  
+
+- **AuthorityCore**  
+[https://roxanneardary.com/authoritycore/](https://roxanneardary.com/authoritycore/)  
+A focus-oriented AI governance and reliability framework that improves long-horizon task execution through objective contracts, jurisdiction-aware reasoning, evidence-constrained retrieval, and human-in-the-loop oversight.  
+
+- **AuthTrace AI**  
+[https://roxanneardary.com/authtrace-ai/](https://roxanneardary.com/authtrace-ai/)  
+A provenance-first AI system that verifies authorship, tracks content lineage, and transforms human knowledge into structured, licensable digital assets.  
+
+- **BranchWeb**  
+[https://roxanneardary.com/branchweb/](https://roxanneardary.com/branchweb/)  
+AI-powered platform turning GitHub/GitLab repositories into interactive, deployable websites. AGPLv3  
+
+- **BudgetBotics**  
+[https://roxanneardary.com/budgetbotics/](https://roxanneardary.com/budgetbotics/)  
+An open-source, AI-powered platform that helps companies of all sizes plan, execute, and govern corporate stock buybacks with precision, automation, regulatory compliance, and intelligent financial modeling.  
+
+- **CasaBot**  
+[https://roxanneardary.com/casabot/](https://roxanneardary.com/casabot/)  
+An open-source AI-powered real estate companion that continuously monitors listings, analyzes market trends, and delivers personalized alerts to help users find their ideal home.  
+
+- **CivicRadar**  
+[https://roxanneardary.com/civicradar/](https://roxanneardary.com/civicradar/)  
+An open-source AI-powered legislative intelligence platform that tracks, analyzes, and explains proposed laws across U.S. federal, state, and local governments in real time.  
+
+- **Cognitive Orchestration Stack (COS)**  
+[https://roxanneardary.com/cognitive-orchestration-stack/](https://roxanneardary.com/cognitive-orchestration-stack/)  
+An open-source modular AI infrastructure framework that separates reasoning from generation to improve efficiency, reduce compute waste, and enable structured, schema-driven cognitive workflows.  
+
+- **CommonGrid**  
+[https://roxanneardary.com/commongrid/](https://roxanneardary.com/commongrid/)  
+An open-source, AI-powered platform that transforms web data into structured, shareable datasets through a decentralized, globally scalable network.  
+
+- **Commons Reasoning Network**  
+[https://roxanneardary.com/commons-reasoning-network/](https://roxanneardary.com/commons-reasoning-network/)  
+An open-source, AGPL 3.0+ federated intelligence infrastructure for autonomous agents, distributed compute, and interoperable AI systems built on a shared reasoning and governance framework.  
+
+- **ContentGraph**  
+[https://roxanneardary.com/contentgraph/](https://roxanneardary.com/contentgraph/)  
+A relational layer over WordPress content that transforms pages and posts into a structured, graph-based system using modular Spec Containers.  
+
+- **Distributed Economic Governance System**  
+[https://roxanneardary.com/distributed-economic-governance-system/](https://roxanneardary.com/distributed-economic-governance-system/)  
+A modular AGPL 3.0+ platform for simulating, analyzing, and improving transparency, accountability, and structural resilience in economic and organizational systems.  
+
+- **EarthMetrics**  
+[https://roxanneardary.com/earthmetrics/](https://roxanneardary.com/earthmetrics/)  
+An open-source global database preserving historical and real-time environmental measurements under the principle of Observation Without Interpretation.  
+
+- **EchoCore Memory**  
+[https://roxanneardary.com/echocore-memory/](https://roxanneardary.com/echocore-memory/)  
+An open source AGPL 3.0+ modular Linux memory orchestration system that combines predictive memory management, adaptive swap strategies, workload modes, and intelligent RAM scheduling.  
+
+- **Effortless OS**  
+[https://roxanneardary.com/effortless-os/](https://roxanneardary.com/effortless-os/)  
+The operating system for removing unnecessary work through time valuation, delegation intelligence, and life simulation modeling.  
+
+- **EurekaAI**  
+[https://roxanneardary.com/eurekaai/](https://roxanneardary.com/eurekaai/)  
+An open-source AI system that analyzes scientific literature to identify research gaps and generate novel hypotheses to accelerate scientific discovery. AGPLv3  
+
+- **EviAI**  
+[https://roxanneardary.com/eviai/](https://roxanneardary.com/eviai/)  
+A privacy-first, fully self-contained AI platform that delivers verifiable answers, secure workflows, and powerful multimodal creation all in one place.  
+
+- **EvolutionOS**  
+[https://roxanneardary.com/evolutionos/](https://roxanneardary.com/evolutionos/)  
+A modular, multi-agent economic intelligence platform that evaluates industry viability, models macroeconomic and market conditions, and identifies alternative business opportunities for long-term strategic decision-making.  
+
+- **FarmWeb Intelligence**  
+[https://roxanneardary.com/farmweb-intelligence/](https://roxanneardary.com/farmweb-intelligence/)  
+An open-source agricultural intelligence platform that maps farms, ownership structures, public funding, and related public records into a unified transparency network.  
+
+- **Feedback360**  
+[https://roxanneardary.com/feedback360/](https://roxanneardary.com/feedback360/)  
+A modular civic intelligence platform that uses AI to break down legislation into plain language, collect constituent feedback per line item, and generate secure, aggregated insights for transparent and informed decision-making.  
+
+- **FinishLine**  
+[https://roxanneardary.com/finishline/](https://roxanneardary.com/finishline/)  
+An open-source AI-powered debt analysis and optimization platform that evaluates debt instruments, loan terms, interest costs, and prepayment penalties to help users identify the smartest path to becoming debt free.  
+
+- **FortiMind**  
+[https://roxanneardary.com/fortimind/](https://roxanneardary.com/fortimind/)  
+Your Ethical and Encrypted Decision Partner, a human-governed AI framework focused on secure, transparent, and constitutionally aligned decision support.  
+
+- **HappyHouse**  
+[https://roxanneardary.com/happyhouse/](https://roxanneardary.com/happyhouse/)  
+An AI-powered home maintenance and property intelligence platform for tracking systems, managing repairs, and predicting maintenance needs.  
+
+- **HARMONYFLOW**  
+[https://roxanneardary.com/harmonyflow/](https://roxanneardary.com/harmonyflow/)  
+AI platform guiding users toward win/win decisions with ethical reasoning, predictive modeling, and transparency. AGPLv3  
+
+- **Heirloom Haven**  
+[https://gitlab.com/Roxanne_Ardary/heirloom-haven](https://gitlab.com/Roxanne_Ardary/heirloom-haven)  
+An open-source, AGPL-3.0+ seed exchange platform for preserving and sharing native, non-GMO, organic, and heirloom seeds through community-driven collaboration.  
+
+- **HotSide Collective**  
+[https://roxanneardary.com/hotside-collective/](https://roxanneardary.com/hotside-collective/)  
+An open-source thermal infrastructure standard that enables safe recovery of waste heat from liquid-cooled compute systems and converts it into usable energy for buildings and district heating networks.  
+
+- **Human Decision Specification (HDS)**  
+[https://roxanneardary.com/human-decision-specification/](https://roxanneardary.com/human-decision-specification/)  
+A modular open standard for human-guided AI systems that ensures all AI-driven recommendations and actions are validated through explicit human intent and approval.  
+
+- **InspectHome**  
+[https://roxanneardary.com/inspecthome/](https://roxanneardary.com/inspecthome/)  
+An open-source, transparency-first real estate platform that requires full property disclosures, verified documentation, and encrypted user data to help people find homes with confidence.  
+
+- **IntentMesh**  
+[https://roxanneardary.com/intentmesh/](https://roxanneardary.com/intentmesh/)  
+The missing layer between code and purpose, providing a governance and infrastructure system that aligns software, licensing, and execution through structured intent.  
+
+- **Keyra**  
+[https://roxanneardary.com/keyra/](https://roxanneardary.com/keyra/)  
+An open-source, quantum-safe authentication platform that replaces passwords with cryptographic key-based security.  
+
+- **LatticeOS**  
+[https://roxanneardary.com/latticeos/](https://roxanneardary.com/latticeos/)  
+A modular, human-in-the-loop operating system for governed multi-agent AI orchestration with structured execution, deterministic workflows, and full auditability.  
+
+- **Lexara**  
+[https://roxanneardary.com/lexara/](https://roxanneardary.com/lexara/)  
+A jurisdictional intelligence and compliance structuring system that translates state and federal legal rules into executable, risk-scored compensation models and smart contract-ready frameworks.  
+
+- **LicenseTrace**  
+[https://roxanneardary.com/licensetrace/](https://roxanneardary.com/licensetrace/)  
+A semantic provenance and compilation system that ensures software is traced, attributed, and only built when no existing implementation can be reused.  
+
+- **LightThroughWords**  
+[https://roxanneardary.com/lightthroughwords/](https://roxanneardary.com/lightthroughwords/)  
+Platform analyzing historical texts to uncover emotional patterns and shared human wisdom. AGPLv3  
+
+- **LumenKinetic Network**  
+[https://gitlab.com/Roxanne_Ardary/lumenkinetic-network](https://gitlab.com/Roxanne_Ardary/lumenkinetic-network)  
+A modular piezoelectric surface system that converts motion into electrical energy while generating real-time spatial intelligence data from physical interactions.  
+
+- **Lumina**  
+[https://roxanneardary.com/lumina/](https://roxanneardary.com/lumina/)  
+An open-source universal gaming platform that unifies global game discovery, creator monetization, and secure peer-to-peer digital ecosystems.  
+
+- **MindLedger for Real Estate**  
+[https://roxanneardary.com/mindledger-for-real-estate/](https://roxanneardary.com/mindledger-for-real-estate/)  
+A modular, open-source real estate operating system that unifies CRM, listings, marketing, analytics, compliance, and AI automation into a single intelligent platform.  
+
+- **NeighborhoodGraph**  
+[https://roxanneardary.com/neighborhood-graph/](https://roxanneardary.com/neighborhood-graph/)  
+An open-source civic intelligence platform that transforms housing, land, infrastructure, and community data into an interactive knowledge graph for exploring how neighborhoods evolve over time.  
+
+- **Nexora**  
+[https://roxanneardary.com/nexora/](https://roxanneardary.com/nexora/)  
+An AI-driven enterprise endpoint governance and security intelligence system that monitors software usage, enforces policy-based risk classification, and generates structured, auditable security insights.  
+
+- **No Lock-In Compliance Standard (NLCS v1.0)**  
+[https://roxanneardary.com/no-lock-in-compliance-standard/](https://roxanneardary.com/no-lock-in-compliance-standard/)  
+A modular open architecture and governance standard designed to eliminate vendor lock-in through fully swappable system components, portable infrastructure design, and AI-driven compliance enforcement.  
+
+- **Oneiros**  
+[https://roxanneardary.com/oneiros/](https://roxanneardary.com/oneiros/)  
+AI platform interpreting recurring dreams about feminine figures, tracking emotional growth, attachment patterns, and relational readiness. AGPLv3  
+
+- **OntologyRuntime**  
+[https://roxanneardary.com/ontologyruntime/](https://roxanneardary.com/ontologyruntime/)  
+A semantic runtime system that converts natural language intent into structured, validated, and execution-ready ontologies for machine execution.  
+
+- **OpenCrawler**  
+[https://roxanneardary.com/opencrawler/](https://roxanneardary.com/opencrawler/)  
+An open-source, privacy-focused search engine designed for transparent rankings, verified business results, and user-controlled data.  
+
+- **OpenEnergyStack**  
+[https://roxanneardary.com/openenergystack/](https://roxanneardary.com/openenergystack/)  
+An open-source platform for planning and governing energy infrastructure.  
+
+- **OpenFiscal**  
+[https://roxanneardary.com/openfiscal/](https://roxanneardary.com/openfiscal/)  
+An open-source financial management platform for transparent operations.  
+
+- **OpenKernel**  
+[https://roxanneardary.com/openkernel/](https://roxanneardary.com/openkernel/)  
+An AGPL-3.0+ operating kernel for human capability and trajectory intelligence that transforms skills, experience, and resources into structured, positive-sum creation systems.  
+
+- **Perspective Engine**  
+[https://roxanneardary.com/perspective-engine/](https://roxanneardary.com/perspective-engine/)  
+A modular, human-in-the-loop AI system that detects trends, reduces content saturation, and reframes information into unique, niche-aligned perspectives for creators.  
+
+- **PhotonForge**  
+[https://roxanneardary.com/photonforge/](https://roxanneardary.com/photonforge/)  
+An open-source framework for array-level control and simulation of optical emitter systems, enabling programmable structured light through modular scheduling, feedback, and hardware abstraction.  
+
+- **Plantellect**  
+[https://roxanneardary.com/plantellect/](https://roxanneardary.com/plantellect/)  
+AI gardening platform identifying plants and guiding permaculture. AGPLv3  
+
+- **Project Solstice**  
+[https://roxanneardary.com/project-solstice/](https://roxanneardary.com/project-solstice/)  
+A layered reasoning system stack transforming computation into verifiable cognition.  
+
+- **PromptWave**  
+[https://roxanneardary.com/promptwave/](https://roxanneardary.com/promptwave/)  
+AI companion guiding creators through step-by-step image/video generation with real-time suggestions and iterative improvements. AGPLv3  
+
+- **ProvenanceHub**  
+[https://roxanneardary.com/provenancehub/](https://roxanneardary.com/provenancehub/)  
+An open-source, community-driven provenance and lineage intelligence system that tracks the origin, evolution, and relationships of digital artifacts, specifications, and ideas over time.  
+
+- **PublicEnforcer**  
+[https://roxanneardary.com/publicenforcer/](https://roxanneardary.com/publicenforcer/)  
+An open-source transparency platform that tracks publicly available federal enforcement data, case activity, financial penalties, and outcomes through searchable, source-linked timelines and analytics.  
+
+- **PublicSafe**  
+[https://roxanneardary.com/publicsafe/](https://roxanneardary.com/publicsafe/)  
+An open-source browser extension protecting user privacy.  
+
+- **Ralph Workflow**  
+[https://roxanneardary.com/ralph-workflow/](https://roxanneardary.com/ralph-workflow/)  
+An unattended AI agent orchestration system for software development.  
+
+- **RePlay Worlds**  
+[https://roxanneardary.com/replayworlds/](https://roxanneardary.com/replayworlds/)  
+An open-source imagination platform for children creating adventures.  
+
+- **RequestStamp**  
+[https://roxanneardary.com/requeststamp/](https://roxanneardary.com/requeststamp/)  
+A self-hosted edge request identity system assigning traceable IDs.  
+
+- **Resolva**  
+[https://roxanneardary.com/resolva/](https://roxanneardary.com/resolva/)  
+An open-source AI-powered platform that transforms complaints into actionable solutions through collective intelligence, community collaboration, and intelligent system redesign.  
+
+- **RightGuide**  
+[https://roxanneardary.com/rightguide/](https://roxanneardary.com/rightguide/)  
+An open-source AI-powered legal analysis platform that helps users understand applicable laws, identify potential legal issues, locate reporting agencies, and discover legal resources based on jurisdiction-specific regulations.  
+
+- **RoadCraft**  
+[https://roxanneardary.com/roadcraft/](https://roxanneardary.com/roadcraft/)  
+An open-source AI motorcycle copilot system that enhances rider safety through helmet-based intelligence, real-time sensor fusion, and optional emergency vehicle control assistance.  
+
+- **SandNet**  
+[https://roxanneardary.com/sandnet/](https://roxanneardary.com/sandnet/)  
+An open source, privacy-first modular game creation platform.  
+
+- **Saturnet**  
+[https://roxanneardary.com/saturnet/](https://roxanneardary.com/saturnet/)  
+A modular AI-driven astronomy intelligence system for the night sky.  
+
+- **SignalNet**  
+[https://roxanneardary.com/signalnet/](https://roxanneardary.com/signalnet/)  
+An open-source AI system analyzing public claims against actions.  
+
+- **Stratum**  
+[https://roxanneardary.com/stratum/](https://roxanneardary.com/stratum/)  
+An AI governance layer for MCP systems enforcing policies and controls.  
+
+- **ThreadGraph**  
+[https://roxanneardary.com/threadgraph/](https://roxanneardary.com/threadgraph/)  
+A modular, graph-structured agent swarm runtime for complex tasks.  
+
+- **TraceGraph OS**  
+[https://roxanneardary.com/tracegraph-os/](https://roxanneardary.com/tracegraph-os/)  
+A scientific intelligence operating system mapping real science processes.  
+
+- **VaultCore OS**  
+[https://roxanneardary.com/vaultcore-os/](https://roxanneardary.com/vaultcore-os/)  
+The trusted core of financial intelligence for verifying institutions.  
+
+- **VectorForge**  
+[https://roxanneardary.com/vectorforge/](https://roxanneardary.com/vectorforge/)  
+A modular digital twin and runtime validation platform.  
+
+- **VigilQuantum**  
+[https://roxanneardary.com/vigilquantum/](https://roxanneardary.com/vigilquantum/)  
+A next-generation quantum operating system with autonomous features.  
+
+- **WealthGuard**  
+[https://roxanneardary.com/wealthguard/](https://roxanneardary.com/wealthguard/)  
+An open-source, end-to-end encrypted retirement and wealth planner.  
+
+- **Weave Foundry**  
+[https://roxanneardary.com/weave-foundry/](https://roxanneardary.com/weave-foundry/)  
+The intelligence layer for fabric transforming ideas into garments.  
+
+- **YieldStack**  
+[https://roxanneardary.com/yieldstack/](https://roxanneardary.com/yieldstack/)  
+An open-source, AGPL-3.0+ agricultural intelligence platform optimizing resources.
+
+## License & Notice Requirements
+
+The Open Arsenal Wiki Specifications are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   
+By contributing to any project, you agree that your contributions will also be released under this license.
+
+Please note the following:
+
+- All contributions must comply with the **AGPL-3.0+** terms.  
+- Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
+  **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
+- Open Arsenal specificiations are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.   
+  Any update that adds new contributors or modifies attribution should also update `notice.md`. 
+- When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
+- Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
+
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
+
+**Open Arsenal Hub**  
+[https://gitlab.com/Roxanne_Ardary/open-arsenal-specs](https://gitlab.com/Roxanne_Ardary/open-arsenal-specs)
