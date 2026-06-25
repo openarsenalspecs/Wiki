@@ -6,7 +6,7 @@
 This file tracks contributors and their specific contributions to the project.
 
 - **Roxanne Ardary**, **[roxanneardary.com](https://www.roxanneardary.com/)** – June 25, 2026  
-Created the repository for Open Arsenal Wiki. Established a centralized catalog of open-source specifications, standards, frameworks, and technology initiatives focused on transparency, interoperability, self-hosting, and digital sovereignty.
+Created the repository for Open Arsenal Wiki. Provided a centralized catalog of open-source specifications, standards, frameworks, and technology initiatives focused on transparency, interoperability, self-hosting, and digital sovereignty.
 
 - **[Add other contributors here]** – [Date]  
 [Describe contribution in one sentence]
