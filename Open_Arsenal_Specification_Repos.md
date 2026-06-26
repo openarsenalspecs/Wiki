@@ -29,7 +29,9 @@ All Open Arsenal specifications are distributed under the GNU Affero General Pub
 - **Video**  
 [https://github.com/openarsenalspecs/Video](https://github.com/openarsenalspecs/Video)
 - **Security**  
-[https://github.com/openarsenalspecs/Security](https://github.com/openarsenalspecs/Security)  
+[https://github.com/openarsenalspecs/Security](https://github.com/openarsenalspecs/Security)
+- **Digital Finance**  
+[https://github.com/openarsenalspecs/Digital-Finance](https://github.com/openarsenalspecs/Digital-Finance)  
 
 ---
 
@@ -52,4 +54,4 @@ Please note the following:
 For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
 
 **Open Arsenal Hub**  
-[https://github.com/openarsenalspecs](https://github.com/openarsenalspecs)  
+[https://github.com/openarsenalspecs](https://github.com/openarsenalspecs) 
