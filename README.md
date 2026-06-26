@@ -304,8 +304,7 @@ An open-source, AGPL-3.0+ agricultural intelligence platform optimizing resource
 
 ## License & Notice Requirements
 
-The Open Arsenal Wiki Specifications are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   
-By contributing to any project, you agree that your contributions will also be released under this license.
+The Open Arsenal Wiki Specifications are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   By contributing to any project, you agree that your contributions will also be released under this license.
 
 Please note the following:
 
