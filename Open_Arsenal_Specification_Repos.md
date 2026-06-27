@@ -45,7 +45,9 @@ All Open Arsenal specifications are distributed under the GNU Affero General Pub
 - **Legal**  
 [https://github.com/openarsenalspecs/Legal](https://github.com/openarsenalspecs/Legal)
 - **Health**  
-[https://github.com/openarsenalspecs/Health](https://github.com/openarsenalspecs/Health)  
+[https://github.com/openarsenalspecs/Health](https://github.com/openarsenalspecs/Health)
+- **Human in the Loop**  
+[https://github.com/openarsenalspecs/Human-in-the-Loop](https://github.com/openarsenalspecs/Human-in-the-Loop)  
 
 ---
 
