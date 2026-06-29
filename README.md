@@ -155,7 +155,11 @@ A modular, human-in-the-loop operating system for governed multi-agent AI orches
 
 - **Lexara**  
 [https://roxanneardary.com/lexara/](https://roxanneardary.com/lexara/)  
-A jurisdictional intelligence and compliance structuring system that translates state and federal legal rules into executable, risk-scored compensation models and smart contract-ready frameworks.  
+A jurisdictional intelligence and compliance structuring system that translates state and federal legal rules into executable, risk-scored compensation models and smart contract-ready frameworks.
+
+- **License Guardian Network**
+[https://roxanneardary.com/license-guardian-network/](https://roxanneardary.com/license-guardian-network/)
+License Guardian Network is a modular semantic licensing and provenance system that verifies specification attribution, detects semantic reuse, and generates structured compliance evidence across distributed repositories. It connects usage, provenance, and compliance into a unified framework designed to support AGPL-3.0+ ecosystems and optional Specification Branding License (SBL) deployment models.  
 
 - **LicenseTrace**  
 [https://roxanneardary.com/licensetrace/](https://roxanneardary.com/licensetrace/)  
