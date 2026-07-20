@@ -73,7 +73,7 @@ An open-source, AGPL 3.0+ federated intelligence infrastructure for autonomous a
 [https://roxanneardary.com/contentgraph/](https://roxanneardary.com/contentgraph/)  
 A relational layer over WordPress content that transforms pages and posts into a structured, graph-based system using modular Spec Containers.  
 
-- **Distributed Economic Governance System**  
+- [**Distributed Economic Governance System Module Specification**]
 [https://roxanneardary.com/distributed-economic-governance-system/](https://roxanneardary.com/distributed-economic-governance-system/)  
 A modular AGPL 3.0+ platform for simulating, analyzing, and improving transparency, accountability, and structural resilience in economic and organizational systems.  
 
@@ -92,7 +92,6 @@ The operating system for removing unnecessary work through time valuation, deleg
 - **EurekaAI**  
 [https://roxanneardary.com/eurekaai/](https://roxanneardary.com/eurekaai/)  
 An open-source AI system that analyzes scientific literature to identify research gaps and generate novel hypotheses to accelerate scientific discovery. AGPLv3  
-
 - **EviAI**  
 [https://roxanneardary.com/eviai/](https://roxanneardary.com/eviai/)  
 A privacy-first, fully self-contained AI platform that delivers verifiable answers, secure workflows, and powerful multimodal creation all in one place.  
