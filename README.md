@@ -29,7 +29,7 @@ An open-source, democratically owned global broadcasting platform that empowers 
 [https://roxanneardary.com/aivana/](https://roxanneardary.com/aivana/)  
 A global AI-native, fully encrypted social network built on verified human identity, modular communication systems, and privacy-first design.  
 
-- **Alpha Risk Review**  
+- [**Alpha Risk Review Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/78b0c063f6e5242617335225c09171a875cfc5ad/Alpha%20Risk%20Review.md)    
 [https://roxanneardary.com/alpha-risk-review/](https://roxanneardary.com/alpha-risk-review/)  
 A modular adversarial intelligence system that stress-tests business plans to reveal structural weaknesses, failure points, and the conditions required for success.  
 
