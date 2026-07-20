@@ -73,7 +73,7 @@ An open-source, AGPL 3.0+ federated intelligence infrastructure for autonomous a
 [https://roxanneardary.com/contentgraph/](https://roxanneardary.com/contentgraph/)  
 A relational layer over WordPress content that transforms pages and posts into a structured, graph-based system using modular Spec Containers.  
 
-- [**Distributed Economic Governance System Module Specification**]  (https://github.com/openarsenalspecs/Wiki/blob/d2925fad9fc5dc00a17978a79508fdab73772ddf/Distributed%20Economic%20Governance%20System.md)    
+- [**Distributed Economic Governance System Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/d2925fad9fc5dc00a17978a79508fdab73772ddf/Distributed%20Economic%20Governance%20System.md)    
 [https://roxanneardary.com/distributed-economic-governance-system/](https://roxanneardary.com/distributed-economic-governance-system/)  
 A modular AGPL 3.0+ platform for simulating, analyzing, and improving transparency, accountability, and structural resilience in economic and organizational systems.  
  
