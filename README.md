@@ -45,7 +45,7 @@ A provenance-first AI system that verifies authorship, tracks content lineage, a
 [https://roxanneardary.com/branchweb/](https://roxanneardary.com/branchweb/)  
 AI-powered platform turning GitHub/GitLab repositories into interactive, deployable websites. AGPLv3  
 
-- [**BudgetBotics**](https://github.com/openarsenalspecs/Wiki/blob/ac4b20186fce0a575f28b4d61582414cd73c4972/BudgetBotics.md)    
+- [**BudgetBotics Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/ac4b20186fce0a575f28b4d61582414cd73c4972/BudgetBotics.md)    
 [https://roxanneardary.com/budgetbotics/](https://roxanneardary.com/budgetbotics/)  
 An open-source, AI-powered platform that helps companies of all sizes plan, execute, and govern corporate stock buybacks with precision, automation, regulatory compliance, and intelligent financial modeling.  
 
