@@ -304,18 +304,25 @@ The trusted core of financial intelligence for verifying institutions.
 [https://roxanneardary.com/vectorforge/](https://roxanneardary.com/vectorforge/)  
 A modular digital twin and runtime validation platform.  
 
-- **VectorMeter**
+- **VectorMeter**  
 [https://roxanneardary.com/vectormeter/](https://roxanneardary.com/vectormeter/)  
 VectorMeter is an open, modular resource metering system built on the Open Metering Specification (OMS) that enables immutable, auditable tracking of compute, time, and infrastructure usage across AI, cloud, and physical environments. It provides deterministic billing and full per-agent and per-resource accountability so every charge can be traced, verified, and reproduced from raw system events.  
+
+- **Vendra**  
+[https://roxanneardary.com/vendra/](https://roxanneardary.com/vendra/)  
+Vendra is an open-source, modular operating system for smart vending infrastructure that connects machines, inventory, payments, analytics, and AI-powered optimization into a unified platform. Built for transparency, interoperability, and data ownership, Vendra enables operators and developers to create the next generation of intelligent automated retail systems without vendor lock-in.
+
+- **VeritasChain**  
+[https://roxanneardary.com/veritaschain/](https://roxanneardary.com/veritaschain/)  
+VeritasChain is an open specification for evidence-based causal intelligence that enables AI systems to connect legal records, economic changes, research, business decisions, and historical events to understand why outcomes occur. It provides a modular framework for transparent, explainable AI reasoning across industries, institutions, and long-term systems.
+
+- **VeritasCode**  
+[https://roxanneardary.com/veritascode/](https://roxanneardary.com/veritascode/)  
+VeritasCode is a modular, retrieval-first, open-source AI platform that analyzes laws across federal, state, county, township, and municipal jurisdictions using evidence-backed retrieval and explainable AI. It identifies potential legal conflicts, constitutional questions, and jurisdictional inconsistencies while providing complete citations and transparent reasoning to support informed human review.
 
 - **VigilQuantum**  
 [https://roxanneardary.com/vigilquantum/](https://roxanneardary.com/vigilquantum/)  
 A next-generation quantum operating system with autonomous features.  
-
-- **WealthGuard**  
-[https://roxanneardary.com/wealthguard/](https://roxanneardary.com/wealthguard/)  
-An open-source, end-to-end encrypted retirement and wealth planner.  
-
 - **Weave Foundry**  
 [https://roxanneardary.com/weave-foundry/](https://roxanneardary.com/weave-foundry/)  
 The intelligence layer for fabric transforming ideas into garments.  
