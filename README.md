@@ -282,7 +282,11 @@ A modular AI-driven astronomy intelligence system for the night sky.
 
 - **SignalNet**  
 [https://roxanneardary.com/signalnet/](https://roxanneardary.com/signalnet/)  
-An open-source AI system analyzing public claims against actions.  
+An open-source AI system analyzing public claims against actions.
+
+- **StoryWeaver**
+[https://roxanneardary.com/storyweaver/](https://roxanneardary.com/storyweaver/)
+StoryWeaver is an open, modular, and federated AI skill library that enables intelligent agents to discover, share, and execute reusable capabilities across local, private, hybrid, and cloud environments. Built with privacy, human-in-the-loop consent, customizable themes, and secure skill management, it provides a flexible foundation for collaborative AI ecosystems. 
 
 - **Stratum**  
 [https://roxanneardary.com/stratum/](https://roxanneardary.com/stratum/)  
