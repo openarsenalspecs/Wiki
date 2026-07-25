@@ -312,7 +312,7 @@ A modular digital twin and runtime validation platform.
 [https://roxanneardary.com/vectormeter/](https://roxanneardary.com/vectormeter/)  
 VectorMeter is an open, modular resource metering system built on the Open Metering Specification (OMS) that enables immutable, auditable tracking of compute, time, and infrastructure usage across AI, cloud, and physical environments. It provides deterministic billing and full per-agent and per-resource accountability so every charge can be traced, verified, and reproduced from raw system events.  
 
-- **Vendra**  
+- [**Vendra Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/6dba9b533250b6e6514aeac5e2ce3eb14ec21fd3/Vendra.md)    
 [https://roxanneardary.com/vendra/](https://roxanneardary.com/vendra/)  
 Vendra is an open-source, modular operating system for smart vending infrastructure that connects machines, inventory, payments, analytics, and AI-powered optimization into a unified platform. Built for transparency, interoperability, and data ownership, Vendra enables operators and developers to create the next generation of intelligent automated retail systems without vendor lock-in.
 
