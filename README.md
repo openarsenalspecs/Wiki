@@ -168,7 +168,7 @@ A semantic provenance and compilation system that ensures software is traced, at
 [https://roxanneardary.com/lightthroughwords/](https://roxanneardary.com/lightthroughwords/)  
 Platform analyzing historical texts to uncover emotional patterns and shared human wisdom. AGPLv3  
 
-- **LumenKinetic Network**  
+- [**LumenKinetic Network Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/e7af142398665d5f3f9df0a52cdd53e4a2043165/LumenKinetic%20Network.md)    
 [https://gitlab.com/Roxanne_Ardary/lumenkinetic-network](https://gitlab.com/Roxanne_Ardary/lumenkinetic-network)  
 A modular piezoelectric surface system that converts motion into electrical energy while generating real-time spatial intelligence data from physical interactions.  
 
