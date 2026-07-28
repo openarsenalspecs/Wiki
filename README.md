@@ -192,7 +192,7 @@ An AI-driven enterprise endpoint governance and security intelligence system tha
 [https://roxanneardary.com/no-lock-in-compliance-standard/](https://roxanneardary.com/no-lock-in-compliance-standard/)  
 A modular open architecture and governance standard designed to eliminate vendor lock-in through fully swappable system components, portable infrastructure design, and AI-driven compliance enforcement.
 
-- **OmniScientia**  
+- [**OmniScientia Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/129f7c81ab9e306f9a2c8c753447777a8f40e806/OmniScientia.md)    
 [https://roxanneardary.com/omniscientia/](https://roxanneardary.com/omniscientia/)  
 OmniScientia is a modular AI framework for scientific discovery that combines adaptive learning, safe experimentation, simulation, and verified research across all fields of science. It empowers learners to explore nature through curiosity, evidence, and AI-guided discovery from microscopic systems to ecosystems and beyond.  
 
