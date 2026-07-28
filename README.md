@@ -190,7 +190,11 @@ An AI-driven enterprise endpoint governance and security intelligence system tha
 
 - **No Lock-In Compliance Standard (NLCS v1.0)**  
 [https://roxanneardary.com/no-lock-in-compliance-standard/](https://roxanneardary.com/no-lock-in-compliance-standard/)  
-A modular open architecture and governance standard designed to eliminate vendor lock-in through fully swappable system components, portable infrastructure design, and AI-driven compliance enforcement.  
+A modular open architecture and governance standard designed to eliminate vendor lock-in through fully swappable system components, portable infrastructure design, and AI-driven compliance enforcement.
+
+- **OmniScientia**  
+[https://roxanneardary.com/omniscientia/](https://roxanneardary.com/omniscientia/)  
+OmniScientia is a modular AI framework for scientific discovery that combines adaptive learning, safe experimentation, simulation, and verified research across all fields of science. It empowers learners to explore nature through curiosity, evidence, and AI-guided discovery from microscopic systems to ecosystems and beyond.  
 
 - **Oneiros**  
 [https://roxanneardary.com/oneiros/](https://roxanneardary.com/oneiros/)  
