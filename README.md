@@ -244,7 +244,7 @@ AI companion guiding creators through step-by-step image/video generation with r
 [https://roxanneardary.com/provenancehub/](https://roxanneardary.com/provenancehub/)  
 An open-source, community-driven provenance and lineage intelligence system that tracks the origin, evolution, and relationships of digital artifacts, specifications, and ideas over time.  
 
-- **PublicEnforcer**  
+- [**PublicEnforcer Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/1c6176da8b5054440f7e313e82511d3d9b793ea6/PublicEnforcer.md)    
 [https://roxanneardary.com/publicenforcer/](https://roxanneardary.com/publicenforcer/)  
 An open-source transparency platform that tracks publicly available federal enforcement data, case activity, financial penalties, and outcomes through searchable, source-linked timelines and analytics.  
 
