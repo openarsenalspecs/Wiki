@@ -49,7 +49,7 @@ AI-powered platform turning GitHub/GitLab repositories into interactive, deploya
 [https://roxanneardary.com/budgetbotics/](https://roxanneardary.com/budgetbotics/)  
 An open-source, AI-powered platform that helps companies of all sizes plan, execute, and govern corporate stock buybacks with precision, automation, regulatory compliance, and intelligent financial modeling.  
 
-- **CasaBot**  
+- [**CasaBot Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/a6c1dc019bfb4cf0a67b2e356252ffeb08bb7172/CasaBot.md)    
 [https://roxanneardary.com/casabot/](https://roxanneardary.com/casabot/)  
 An open-source AI-powered real estate companion that continuously monitors listings, analyzes market trends, and delivers personalized alerts to help users find their ideal home.  
 
