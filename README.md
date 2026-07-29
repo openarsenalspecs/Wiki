@@ -176,7 +176,7 @@ A modular piezoelectric surface system that converts motion into electrical ener
 [https://roxanneardary.com/lumina/](https://roxanneardary.com/lumina/)  
 An open-source universal gaming platform that unifies global game discovery, creator monetization, and secure peer-to-peer digital ecosystems.  
 
-- **MindLedger for Real Estate**  
+- [**MindLedger for Real Estate Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/1c92225963d5fa25ac87a228dcb6fa1b47e0bd3f/MindLedger%20for%20Real%20Estate.md)    
 [https://roxanneardary.com/mindledger-for-real-estate/](https://roxanneardary.com/mindledger-for-real-estate/)  
 A modular, open-source real estate operating system that unifies CRM, listings, marketing, analytics, compliance, and AI automation into a single intelligent platform.  
 
