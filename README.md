@@ -180,7 +180,7 @@ An open-source universal gaming platform that unifies global game discovery, cre
 [https://roxanneardary.com/mindledger-for-real-estate/](https://roxanneardary.com/mindledger-for-real-estate/)  
 A modular, open-source real estate operating system that unifies CRM, listings, marketing, analytics, compliance, and AI automation into a single intelligent platform.  
 
-- **NeighborhoodGraph**  
+- [**NeighborhoodGraph Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/13fc830f5aafc060662e20c1f11e81159fb8d92a/NeighborhoodGraph.md)    
 [https://roxanneardary.com/neighborhood-graph/](https://roxanneardary.com/neighborhood-graph/)  
 An open-source civic intelligence platform that transforms housing, land, infrastructure, and community data into an interactive knowledge graph for exploring how neighborhoods evolve over time.  
 
