@@ -41,7 +41,7 @@ A focus-oriented AI governance and reliability framework that improves long-hori
 [https://roxanneardary.com/authtrace-ai/](https://roxanneardary.com/authtrace-ai/)  
 A provenance-first AI system that verifies authorship, tracks content lineage, and transforms human knowledge into structured, licensable digital assets.  
 
-- **BranchWeb**  
+- [**BranchWeb Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/b0f07cd97ed828228683414faccb31fe20e9a60e/BranchWeb.md)    
 [https://roxanneardary.com/branchweb/](https://roxanneardary.com/branchweb/)  
 AI-powered platform turning GitHub/GitLab repositories into interactive, deployable websites. AGPLv3  
 
