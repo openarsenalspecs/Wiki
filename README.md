@@ -69,7 +69,7 @@ An open-source, AI-powered platform that transforms web data into structured, sh
 [https://roxanneardary.com/commons-reasoning-network/](https://roxanneardary.com/commons-reasoning-network/)  
 An open-source, AGPL 3.0+ federated intelligence infrastructure for autonomous agents, distributed compute, and interoperable AI systems built on a shared reasoning and governance framework.  
 
-- **ContentGraph**  
+- [**ContentGraph Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/7000f51e1bb3a4f1e32750e6b2797939127d8ad8/ContentGraph.md)    
 [https://roxanneardary.com/contentgraph/](https://roxanneardary.com/contentgraph/)  
 A relational layer over WordPress content that transforms pages and posts into a structured, graph-based system using modular Spec Containers.  
 
