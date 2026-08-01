@@ -109,7 +109,7 @@ An open-source agricultural intelligence platform that maps farms, ownership str
 [https://roxanneardary.com/feedback360/](https://roxanneardary.com/feedback360/)  
 A modular civic intelligence platform that uses AI to break down legislation into plain language, collect constituent feedback per line item, and generate secure, aggregated insights for transparent and informed decision-making.  
 
-- **FinishLine**  
+- [**FinishLine Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/b3d71b0413204e9d2e4e758c3373c2fa105302dc/FinishLine.md)    
 [https://roxanneardary.com/finishline/](https://roxanneardary.com/finishline/)  
 An open-source AI-powered debt analysis and optimization platform that evaluates debt instruments, loan terms, interest costs, and prepayment penalties to help users identify the smartest path to becoming debt free.  
 
