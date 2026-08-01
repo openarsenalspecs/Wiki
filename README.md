@@ -101,7 +101,7 @@ A privacy-first, fully self-contained AI platform that delivers verifiable answe
 [https://roxanneardary.com/evolutionos/](https://roxanneardary.com/evolutionos/)  
 A modular, multi-agent economic intelligence platform that evaluates industry viability, models macroeconomic and market conditions, and identifies alternative business opportunities for long-term strategic decision-making.  
 
-- **FarmWeb Intelligence**  
+- [**FarmWeb Intelligence Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/57ef637bb63c89c2ac5f346cbf1531ff4a1cb951/FarmWeb%20Intelligence.md)    
 [https://roxanneardary.com/farmweb-intelligence/](https://roxanneardary.com/farmweb-intelligence/)  
 An open-source agricultural intelligence platform that maps farms, ownership structures, public funding, and related public records into a unified transparency network.  
 
