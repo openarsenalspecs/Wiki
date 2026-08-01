@@ -81,7 +81,7 @@ A modular AGPL 3.0+ platform for simulating, analyzing, and improving transparen
 [https://roxanneardary.com/earthmetrics/](https://roxanneardary.com/earthmetrics/)  
 An open-source global database preserving historical and real-time environmental measurements under the principle of Observation Without Interpretation.  
 
-- **EchoCore Memory**  
+- [**EchoCore Memory Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/cce1106268514d13daff6efef859159e6a7c28b0/EchoCore%20Memory.md)    
 [https://roxanneardary.com/echocore-memory/](https://roxanneardary.com/echocore-memory/)  
 An open source AGPL 3.0+ modular Linux memory orchestration system that combines predictive memory management, adaptive swap strategies, workload modes, and intelligent RAM scheduling.  
 
