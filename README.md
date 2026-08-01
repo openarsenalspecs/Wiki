@@ -61,7 +61,7 @@ An open-source AI-powered legislative intelligence platform that tracks, analyze
 [https://roxanneardary.com/cognitive-orchestration-stack/](https://roxanneardary.com/cognitive-orchestration-stack/)  
 An open-source modular AI infrastructure framework that separates reasoning from generation to improve efficiency, reduce compute waste, and enable structured, schema-driven cognitive workflows.  
 
-- **CommonGrid**  
+- [**CommonGrid Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/fc884113f5c27f08e8d09d6492ee32e62f9044cf/CommonGrid.md)    
 [https://roxanneardary.com/commongrid/](https://roxanneardary.com/commongrid/)  
 An open-source, AI-powered platform that transforms web data into structured, shareable datasets through a decentralized, globally scalable network.  
 
