@@ -89,9 +89,10 @@ An open source AGPL 3.0+ modular Linux memory orchestration system that combines
 [https://roxanneardary.com/effortless-os/](https://roxanneardary.com/effortless-os/)  
 The operating system for removing unnecessary work through time valuation, delegation intelligence, and life simulation modeling.  
 
-- **EurekaAI**  
+- [**EurekaAI Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/0914be409df0f19084ee42ccf0851a3cf2843dc1/EurekaAI.md)    
 [https://roxanneardary.com/eurekaai/](https://roxanneardary.com/eurekaai/)  
-An open-source AI system that analyzes scientific literature to identify research gaps and generate novel hypotheses to accelerate scientific discovery. AGPLv3  
+An open-source AI system that analyzes scientific literature to identify research gaps and generate novel hypotheses to accelerate scientific discovery. AGPLv3
+
 - **EviAI**  
 [https://roxanneardary.com/eviai/](https://roxanneardary.com/eviai/)  
 A privacy-first, fully self-contained AI platform that delivers verifiable answers, secure workflows, and powerful multimodal creation all in one place.  
