@@ -53,7 +53,7 @@ An open-source, AI-powered platform that helps companies of all sizes plan, exec
 [https://roxanneardary.com/casabot/](https://roxanneardary.com/casabot/)  
 An open-source AI-powered real estate companion that continuously monitors listings, analyzes market trends, and delivers personalized alerts to help users find their ideal home.  
 
-- **CivicRadar**  
+- [**CivicRadar Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/134f9c11217f95a8549f55d1acd579a7ea578dab/CivicRadar.md)    
 [https://roxanneardary.com/civicradar/](https://roxanneardary.com/civicradar/)  
 An open-source AI-powered legislative intelligence platform that tracks, analyzes, and explains proposed laws across U.S. federal, state, and local governments in real time.  
 
