@@ -37,7 +37,7 @@ A modular adversarial intelligence system that stress-tests business plans to re
 [https://roxanneardary.com/authoritycore/](https://roxanneardary.com/authoritycore/)  
 A focus-oriented AI governance and reliability framework that improves long-horizon task execution through objective contracts, jurisdiction-aware reasoning, evidence-constrained retrieval, and human-in-the-loop oversight.  
 
-- **AuthTrace AI**  
+- [**AuthTrace AI Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/62cef9853fb3c67c415c642a7de5a74a945ccbeb/AuthTrace%20AI.md)    
 [https://roxanneardary.com/authtrace-ai/](https://roxanneardary.com/authtrace-ai/)  
 A provenance-first AI system that verifies authorship, tracks content lineage, and transforms human knowledge into structured, licensable digital assets.  
 
