@@ -65,7 +65,7 @@ An open-source modular AI infrastructure framework that separates reasoning from
 [https://roxanneardary.com/commongrid/](https://roxanneardary.com/commongrid/)  
 An open-source, AI-powered platform that transforms web data into structured, shareable datasets through a decentralized, globally scalable network.  
 
-- **Commons Reasoning Network**  
+- [**Commons Reasoning Network Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/daf6e9df0a43723374db92f4d453724704057e7f/Commons%20Reasoning%20Network.md)    
 [https://roxanneardary.com/commons-reasoning-network/](https://roxanneardary.com/commons-reasoning-network/)  
 An open-source, AGPL 3.0+ federated intelligence infrastructure for autonomous agents, distributed compute, and interoperable AI systems built on a shared reasoning and governance framework.  
 
