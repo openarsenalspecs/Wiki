@@ -85,7 +85,7 @@ An open-source global database preserving historical and real-time environmental
 [https://roxanneardary.com/echocore-memory/](https://roxanneardary.com/echocore-memory/)  
 An open source AGPL 3.0+ modular Linux memory orchestration system that combines predictive memory management, adaptive swap strategies, workload modes, and intelligent RAM scheduling.  
 
-- **Effortless OS**  
+- [**Effortless OS Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/d9257104a29c54a9ed16f7cc14868fd35f63e95c/Effortless%20OS.md)    
 [https://roxanneardary.com/effortless-os/](https://roxanneardary.com/effortless-os/)  
 The operating system for removing unnecessary work through time valuation, delegation intelligence, and life simulation modeling.  
 
