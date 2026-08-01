@@ -57,7 +57,7 @@ An open-source AI-powered real estate companion that continuously monitors listi
 [https://roxanneardary.com/civicradar/](https://roxanneardary.com/civicradar/)  
 An open-source AI-powered legislative intelligence platform that tracks, analyzes, and explains proposed laws across U.S. federal, state, and local governments in real time.  
 
-- **Cognitive Orchestration Stack (COS)**  
+- [**Cognitive Orchestration Stack Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/3e49f944059b3ba13891f7dc4d8d0e846bf8c13e/Cognitive%20Orchestration%20Stack.md)    
 [https://roxanneardary.com/cognitive-orchestration-stack/](https://roxanneardary.com/cognitive-orchestration-stack/)  
 An open-source modular AI infrastructure framework that separates reasoning from generation to improve efficiency, reduce compute waste, and enable structured, schema-driven cognitive workflows.  
 
