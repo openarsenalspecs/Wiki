@@ -25,7 +25,7 @@ All specifications are designed to be adaptable across diverse technical ecosyst
 [https://roxanneardary.com/agoratv/](https://roxanneardary.com/agoratv/)  
 An open-source, democratically owned global broadcasting platform that empowers independent voices through public media infrastructure, multilingual accessibility, and transparent governance.  
 
-- **Aivana**  
+- [**Aivana Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/ad912e814e5672eaec89215d3ed8b046c7686b33/Aivana.md)    
 [https://roxanneardary.com/aivana/](https://roxanneardary.com/aivana/)  
 A global AI-native, fully encrypted social network built on verified human identity, modular communication systems, and privacy-first design.  
 
