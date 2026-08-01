@@ -105,7 +105,7 @@ A modular, multi-agent economic intelligence platform that evaluates industry vi
 [https://roxanneardary.com/farmweb-intelligence/](https://roxanneardary.com/farmweb-intelligence/)  
 An open-source agricultural intelligence platform that maps farms, ownership structures, public funding, and related public records into a unified transparency network.  
 
-- **Feedback360**  
+- [**Feedback360 Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/5a080a27b18872b3e27906113823342169e5c507/Feedback360.md)    
 [https://roxanneardary.com/feedback360/](https://roxanneardary.com/feedback360/)  
 A modular civic intelligence platform that uses AI to break down legislation into plain language, collect constituent feedback per line item, and generate secure, aggregated insights for transparent and informed decision-making.  
 
