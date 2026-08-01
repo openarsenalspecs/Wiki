@@ -97,7 +97,7 @@ An open-source AI system that analyzes scientific literature to identify researc
 [https://roxanneardary.com/eviai/](https://roxanneardary.com/eviai/)  
 A privacy-first, fully self-contained AI platform that delivers verifiable answers, secure workflows, and powerful multimodal creation all in one place.  
 
-- **EvolutionOS**  
+- [**EvolutionOS Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/b3fe33426ef4d12c38749699e3ddbead4f312ee9/EvolutionOS.md)    
 [https://roxanneardary.com/evolutionos/](https://roxanneardary.com/evolutionos/)  
 A modular, multi-agent economic intelligence platform that evaluates industry viability, models macroeconomic and market conditions, and identifies alternative business opportunities for long-term strategic decision-making.  
 
