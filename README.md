@@ -77,7 +77,7 @@ A relational layer over WordPress content that transforms pages and posts into a
 [https://roxanneardary.com/distributed-economic-governance-system/](https://roxanneardary.com/distributed-economic-governance-system/)  
 A modular AGPL 3.0+ platform for simulating, analyzing, and improving transparency, accountability, and structural resilience in economic and organizational systems.  
  
-- **EarthMetrics**  
+- [**EarthMetrics Module Specifications**](https://github.com/openarsenalspecs/Wiki/blob/8a5b541ed23368c5e92497ab4f21942464a58faf/EarthMetrics.md)    
 [https://roxanneardary.com/earthmetrics/](https://roxanneardary.com/earthmetrics/)  
 An open-source global database preserving historical and real-time environmental measurements under the principle of Observation Without Interpretation.  
 
