@@ -205,7 +205,7 @@ AI platform interpreting recurring dreams about feminine figures, tracking emoti
 [https://roxanneardary.com/ontologyruntime/](https://roxanneardary.com/ontologyruntime/)  
 A semantic runtime system that converts natural language intent into structured, validated, and execution-ready ontologies for machine execution.  
 
-- **OpenCrawler**  
+- [**OpenCrawler Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/ee7001e000b9e02a7cec7c93d86cf5470d53288f/OpenCrawler.md)    
 [https://roxanneardary.com/opencrawler/](https://roxanneardary.com/opencrawler/)  
 An open-source, privacy-focused search engine designed for transparent rankings, verified business results, and user-controlled data.  
 
