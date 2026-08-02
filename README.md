@@ -185,7 +185,7 @@ A modular, open-source real estate operating system that unifies CRM, listings, 
 [https://roxanneardary.com/neighborhood-graph/](https://roxanneardary.com/neighborhood-graph/)  
 An open-source civic intelligence platform that transforms housing, land, infrastructure, and community data into an interactive knowledge graph for exploring how neighborhoods evolve over time.  
 
-- **Nexora**  
+- [**Nexora Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/41919133e226a69590282742448993c34938125e/Nexora.md)    
 [https://roxanneardary.com/nexora/](https://roxanneardary.com/nexora/)  
 An AI-driven enterprise endpoint governance and security intelligence system that monitors software usage, enforces policy-based risk classification, and generates structured, auditable security insights.  
 
