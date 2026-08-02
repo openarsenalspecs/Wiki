@@ -201,7 +201,7 @@ OmniScientia is a modular AI framework for scientific discovery that combines ad
 [https://roxanneardary.com/oneiros/](https://roxanneardary.com/oneiros/)  
 AI platform interpreting recurring dreams about feminine figures, tracking emotional growth, attachment patterns, and relational readiness. AGPLv3  
 
-- **OntologyRuntime**  
+- [**OntologyRuntime Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/97cbd33317131adb50cf95e70771908b6f520b6d/OntologyRuntime.md)    
 [https://roxanneardary.com/ontologyruntime/](https://roxanneardary.com/ontologyruntime/)  
 A semantic runtime system that converts natural language intent into structured, validated, and execution-ready ontologies for machine execution.  
 
