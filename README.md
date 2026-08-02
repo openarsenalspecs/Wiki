@@ -334,7 +334,11 @@ VeritasCode is a modular, retrieval-first, open-source AI platform that analyzes
 A next-generation quantum operating system with autonomous features.  
 - **Weave Foundry**  
 [https://roxanneardary.com/weave-foundry/](https://roxanneardary.com/weave-foundry/)  
-The intelligence layer for fabric transforming ideas into garments.  
+The intelligence layer for fabric transforming ideas into garments.
+
+- [**Workflow Certification Module Specification**]  (https://github.com/openarsenalspecs/Wiki/blob/5403ffd42b58b52c89967f5f5251086a48857a24/Workflow%20Certification.md)  
+[https://roxanneardary.com/workflow-certification/](https://roxanneardary.com/workflow-certification/)  
+Workflow Certification is an open specification for validating AI agent workflows by ensuring they include essential components for security, governance, transparency, reliability, and long-term maintainability. It provides a modular certification framework for evaluating workflow architecture, agent capabilities, human oversight, testing, observability, and lifecycle management.
 
 - **YieldStack**  
 [https://roxanneardary.com/yieldstack/](https://roxanneardary.com/yieldstack/)  
