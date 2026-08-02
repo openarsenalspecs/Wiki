@@ -125,7 +125,7 @@ An AI-powered home maintenance and property intelligence platform for tracking s
 [https://roxanneardary.com/harmonyflow/](https://roxanneardary.com/harmonyflow/)  
 AI platform guiding users toward win/win decisions with ethical reasoning, predictive modeling, and transparency. AGPLv3  
 
-- **Heirloom Haven**  
+- [**Heirloom Haven Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/10111048c6c6a92b7423c292da91796d919baa43/Heirloom%20Haven.md)    
 [https://gitlab.com/Roxanne_Ardary/heirloom-haven](https://gitlab.com/Roxanne_Ardary/heirloom-haven)  
 An open-source, AGPL-3.0+ seed exchange platform for preserving and sharing native, non-GMO, organic, and heirloom seeds through community-driven collaboration.  
 
