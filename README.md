@@ -197,7 +197,7 @@ A modular open architecture and governance standard designed to eliminate vendor
 [https://roxanneardary.com/omniscientia/](https://roxanneardary.com/omniscientia/)  
 OmniScientia is a modular AI framework for scientific discovery that combines adaptive learning, safe experimentation, simulation, and verified research across all fields of science. It empowers learners to explore nature through curiosity, evidence, and AI-guided discovery from microscopic systems to ecosystems and beyond.  
 
-- **Oneiros**  
+- [**Oneiros Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/372da3711e09f69e63e9bd89ff643773ff9588d5/Oneiros.md)    
 [https://roxanneardary.com/oneiros/](https://roxanneardary.com/oneiros/)  
 AI platform interpreting recurring dreams about feminine figures, tracking emotional growth, attachment patterns, and relational readiness. AGPLv3  
 
