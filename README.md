@@ -133,7 +133,7 @@ An open-source, AGPL-3.0+ seed exchange platform for preserving and sharing nati
 [https://roxanneardary.com/hotside-collective/](https://roxanneardary.com/hotside-collective/)  
 An open-source thermal infrastructure standard that enables safe recovery of waste heat from liquid-cooled compute systems and converts it into usable energy for buildings and district heating networks.  
 
-- **Human Decision Specification (HDS)**  
+- [**Human Decision Specification**](https://github.com/openarsenalspecs/Wiki/blob/54e4d200734eafd1857280327c0339cb093a6ef8/Human%20Decision%20Specification.md)    
 [https://roxanneardary.com/human-decision-specification/](https://roxanneardary.com/human-decision-specification/)  
 A modular open standard for human-guided AI systems that ensures all AI-driven recommendations and actions are validated through explicit human intent and approval.  
 
