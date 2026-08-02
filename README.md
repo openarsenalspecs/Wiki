@@ -121,7 +121,7 @@ Your Ethical and Encrypted Decision Partner, a human-governed AI framework focus
 [https://roxanneardary.com/happyhouse/](https://roxanneardary.com/happyhouse/)  
 An AI-powered home maintenance and property intelligence platform for tracking systems, managing repairs, and predicting maintenance needs.  
 
-- **HARMONYFLOW**  
+- [**HARMONYFLOW Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/3c20a3fe06284e344594000880332059ea53337f/HarmonyFlow.md)    
 [https://roxanneardary.com/harmonyflow/](https://roxanneardary.com/harmonyflow/)  
 AI platform guiding users toward win/win decisions with ethical reasoning, predictive modeling, and transparency. AGPLv3  
 
