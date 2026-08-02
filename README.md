@@ -153,7 +153,7 @@ An open-source, quantum-safe authentication platform that replaces passwords wit
 [https://roxanneardary.com/latticeos/](https://roxanneardary.com/latticeos/)  
 A modular, human-in-the-loop operating system for governed multi-agent AI orchestration with structured execution, deterministic workflows, and full auditability.  
 
-- **Lexara**  
+- [**Lexara Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/b708d5794786522972686d587445a0e7bb2a19f9/Lexara.md)    
 [https://roxanneardary.com/lexara/](https://roxanneardary.com/lexara/)  
 A jurisdictional intelligence and compliance structuring system that translates state and federal legal rules into executable, risk-scored compensation models and smart contract-ready frameworks.
 
