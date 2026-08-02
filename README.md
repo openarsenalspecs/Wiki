@@ -141,7 +141,7 @@ A modular open standard for human-guided AI systems that ensures all AI-driven r
 [https://roxanneardary.com/inspecthome/](https://roxanneardary.com/inspecthome/)  
 An open-source, transparency-first real estate platform that requires full property disclosures, verified documentation, and encrypted user data to help people find homes with confidence.  
 
-- **IntentMesh**  
+- [**IntentMesh Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/45121ff3877200c0b49a2740db3c4472d9ff0354/IntentMesh.md)    
 [https://roxanneardary.com/intentmesh/](https://roxanneardary.com/intentmesh/)  
 The missing layer between code and purpose, providing a governance and infrastructure system that aligns software, licensing, and execution through structured intent.  
 
