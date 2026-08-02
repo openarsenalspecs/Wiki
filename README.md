@@ -145,7 +145,7 @@ An open-source, transparency-first real estate platform that requires full prope
 [https://roxanneardary.com/intentmesh/](https://roxanneardary.com/intentmesh/)  
 The missing layer between code and purpose, providing a governance and infrastructure system that aligns software, licensing, and execution through structured intent.  
 
-- **Keyra**  
+- [**Keyra Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/2cdada7267708347289c718cd2b22e5c81944e7b/Keyra.md)    
 [https://roxanneardary.com/keyra/](https://roxanneardary.com/keyra/)  
 An open-source, quantum-safe authentication platform that replaces passwords with cryptographic key-based security.  
 
