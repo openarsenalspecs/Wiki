@@ -189,7 +189,7 @@ An open-source civic intelligence platform that transforms housing, land, infras
 [https://roxanneardary.com/nexora/](https://roxanneardary.com/nexora/)  
 An AI-driven enterprise endpoint governance and security intelligence system that monitors software usage, enforces policy-based risk classification, and generates structured, auditable security insights.  
 
-- **No Lock-In Compliance Standard (NLCS v1.0)**  
+- [**No Lock-In Compliance Standard Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/43d281760c85a49058e333390486def4c9c1910d/No%20Lock-In%20Compliance%20Standard.md)    
 [https://roxanneardary.com/no-lock-in-compliance-standard/](https://roxanneardary.com/no-lock-in-compliance-standard/)  
 A modular open architecture and governance standard designed to eliminate vendor lock-in through fully swappable system components, portable infrastructure design, and AI-driven compliance enforcement.
 
