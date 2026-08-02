@@ -340,7 +340,7 @@ The intelligence layer for fabric transforming ideas into garments.
 [https://roxanneardary.com/workflow-certification/](https://roxanneardary.com/workflow-certification/)  
 Workflow Certification is an open specification for validating AI agent workflows by ensuring they include essential components for security, governance, transparency, reliability, and long-term maintainability. It provides a modular certification framework for evaluating workflow architecture, agent capabilities, human oversight, testing, observability, and lifecycle management.
 
-- **YieldStack**  
+- [**YieldStack Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/970c928645a4b1ed38f8dad6e3b00b1117cfeab1/YieldStack.md)    
 [https://roxanneardary.com/yieldstack/](https://roxanneardary.com/yieldstack/)  
 An open-source, AGPL-3.0+ agricultural intelligence platform optimizing resources.
 
