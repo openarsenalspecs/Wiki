@@ -129,7 +129,7 @@ AI platform guiding users toward win/win decisions with ethical reasoning, predi
 [https://gitlab.com/Roxanne_Ardary/heirloom-haven](https://gitlab.com/Roxanne_Ardary/heirloom-haven)  
 An open-source, AGPL-3.0+ seed exchange platform for preserving and sharing native, non-GMO, organic, and heirloom seeds through community-driven collaboration.  
 
-- **HotSide Collective**  
+- [**HotSide Collective Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/92384cfe9fc8d21b566857d9839049e5bf8b24f9/HotSide%20Collective.md)    
 [https://roxanneardary.com/hotside-collective/](https://roxanneardary.com/hotside-collective/)  
 An open-source thermal infrastructure standard that enables safe recovery of waste heat from liquid-cooled compute systems and converts it into usable energy for buildings and district heating networks.  
 
