@@ -165,7 +165,7 @@ License Guardian Network is a modular semantic licensing and provenance system t
 [https://roxanneardary.com/licensetrace/](https://roxanneardary.com/licensetrace/)  
 A semantic provenance and compilation system that ensures software is traced, attributed, and only built when no existing implementation can be reused.  
 
-- **LightThroughWords**  
+- [**LightThroughWords Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/9eb4bf8e62d7cd6892a52b30ea50b4129d91633e/LightThroughWords.md)    
 [https://roxanneardary.com/lightthroughwords/](https://roxanneardary.com/lightthroughwords/)  
 Platform analyzing historical texts to uncover emotional patterns and shared human wisdom. AGPLv3  
 
