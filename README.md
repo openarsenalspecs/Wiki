@@ -253,7 +253,7 @@ An open-source transparency platform that tracks publicly available federal enfo
 [https://roxanneardary.com/publicsafe/](https://roxanneardary.com/publicsafe/)  
 An open-source browser extension protecting user privacy.  
 
-- **Ralph Workflow**  
+- [**Ralph Workflow Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/7a71ea76accf1c542356c5acd6befffe137550d3/Ralph%20Workflow.md)    
 [https://roxanneardary.com/ralph-workflow/](https://roxanneardary.com/ralph-workflow/)  
 An unattended AI agent orchestration system for software development.  
 
