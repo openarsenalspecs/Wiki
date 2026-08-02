@@ -149,7 +149,7 @@ The missing layer between code and purpose, providing a governance and infrastru
 [https://roxanneardary.com/keyra/](https://roxanneardary.com/keyra/)  
 An open-source, quantum-safe authentication platform that replaces passwords with cryptographic key-based security.  
 
-- **LatticeOS**  
+- [**LatticeOS Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/188379d380a767745708ae10f5bb927c46a4cf0e/LatticeOS.md)    
 [https://roxanneardary.com/latticeos/](https://roxanneardary.com/latticeos/)  
 A modular, human-in-the-loop operating system for governed multi-agent AI orchestration with structured execution, deterministic workflows, and full auditability.  
 
