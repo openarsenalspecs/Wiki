@@ -225,7 +225,7 @@ An AGPL-3.0+ operating kernel for human capability and trajectory intelligence t
 [https://roxanneardary.com/perspective-engine/](https://roxanneardary.com/perspective-engine/)  
 A modular, human-in-the-loop AI system that detects trends, reduces content saturation, and reframes information into unique, niche-aligned perspectives for creators.  
 
-- **PhotonForge**  
+- [**PhotonForge Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/cf2b0fa3baeeccf221c49f417d2c87ef21b55f3a/PhotonForge.md)    
 [https://roxanneardary.com/photonforge/](https://roxanneardary.com/photonforge/)  
 An open-source framework for array-level control and simulation of optical emitter systems, enabling programmable structured light through modular scheduling, feedback, and hardware abstraction.  
 
