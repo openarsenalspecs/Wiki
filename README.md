@@ -257,7 +257,7 @@ An open-source browser extension protecting user privacy.
 [https://roxanneardary.com/ralph-workflow/](https://roxanneardary.com/ralph-workflow/)  
 An unattended AI agent orchestration system for software development.  
 
-- **RePlay Worlds**  
+- [**RePlay Worlds Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/06a83aaf7b4729173b272078eee9590ff1d5f5a3/RePlay%20Worlds.md)    
 [https://roxanneardary.com/replayworlds/](https://roxanneardary.com/replayworlds/)  
 An open-source imagination platform for children creating adventures.  
 
