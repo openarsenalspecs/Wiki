@@ -261,7 +261,7 @@ An unattended AI agent orchestration system for software development.
 [https://roxanneardary.com/replayworlds/](https://roxanneardary.com/replayworlds/)  
 An open-source imagination platform for children creating adventures.  
 
-- **RequestStamp**  
+- [**RequestStamp Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/7a4b165848f1314207779604a4f7ea5de5a27c4e/RequestStamp.md)    
 [https://roxanneardary.com/requeststamp/](https://roxanneardary.com/requeststamp/)  
 A self-hosted edge request identity system assigning traceable IDs.  
 
