@@ -297,7 +297,7 @@ StoryWeaver is an open, modular, and federated AI skill library that enables int
 [https://roxanneardary.com/stratum/](https://roxanneardary.com/stratum/)  
 An AI governance layer for MCP systems enforcing policies and controls.  
 
-- **ThreadGraph**  
+- [**ThreadGraph Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/9c9683580a6dd11ee30859f39c03845267b4c8b7/ThreadGraph.md)    
 [https://roxanneardary.com/threadgraph/](https://roxanneardary.com/threadgraph/)  
 A modular, graph-structured agent swarm runtime for complex tasks.  
 
