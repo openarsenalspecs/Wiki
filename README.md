@@ -309,7 +309,7 @@ A scientific intelligence operating system mapping real science processes.
 [https://roxanneardary.com/vaultcore-os/](https://roxanneardary.com/vaultcore-os/)  
 The trusted core of financial intelligence for verifying institutions.  
 
-- **VectorForge**  
+- [**VectorForge Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/f804eaf8c5becf22369040b62a851397c69d4ecd/VectorForge.md)    
 [https://roxanneardary.com/vectorforge/](https://roxanneardary.com/vectorforge/)  
 A modular digital twin and runtime validation platform.  
 
@@ -331,7 +331,8 @@ VeritasCode is a modular, retrieval-first, open-source AI platform that analyzes
 
 - **VigilQuantum**  
 [https://roxanneardary.com/vigilquantum/](https://roxanneardary.com/vigilquantum/)  
-A next-generation quantum operating system with autonomous features.  
+A next-generation quantum operating system with autonomous features.
+
 - **Weave Foundry**  
 [https://roxanneardary.com/weave-foundry/](https://roxanneardary.com/weave-foundry/)  
 The intelligence layer for fabric transforming ideas into garments.
