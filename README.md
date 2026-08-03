@@ -265,7 +265,7 @@ An open-source imagination platform for children creating adventures.
 [https://roxanneardary.com/requeststamp/](https://roxanneardary.com/requeststamp/)  
 A self-hosted edge request identity system assigning traceable IDs.  
 
-- **Resolva**  
+- [**Resolva Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/e3d46254977a10532d9c4e6beda2524c9914351a/Resolva.md)    
 [https://roxanneardary.com/resolva/](https://roxanneardary.com/resolva/)  
 An open-source AI-powered platform that transforms complaints into actionable solutions through collective intelligence, community collaboration, and intelligent system redesign.  
 
