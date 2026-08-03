@@ -277,7 +277,7 @@ An open-source AI-powered legal analysis platform that helps users understand ap
 [https://roxanneardary.com/roadcraft/](https://roxanneardary.com/roadcraft/)  
 An open-source AI motorcycle copilot system that enhances rider safety through helmet-based intelligence, real-time sensor fusion, and optional emergency vehicle control assistance.  
 
-- **SandNet**  
+- [**SandNet Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/f340b289904a562bbd316e02751be4e0663b82f4/SandNet.md)    
 [https://roxanneardary.com/sandnet/](https://roxanneardary.com/sandnet/)  
 An open source, privacy-first modular game creation platform.  
 
