@@ -281,7 +281,7 @@ An open-source AI motorcycle copilot system that enhances rider safety through h
 [https://roxanneardary.com/sandnet/](https://roxanneardary.com/sandnet/)  
 An open source, privacy-first modular game creation platform.  
 
-- **Saturnet**  
+- [**Saturnet Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/c06b68a8f5cea0056e09d891dcaf27622c6f67a4/Saturnet.md)    
 [https://roxanneardary.com/saturnet/](https://roxanneardary.com/saturnet/)  
 A modular AI-driven astronomy intelligence system for the night sky.  
 
