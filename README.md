@@ -301,7 +301,7 @@ An AI governance layer for MCP systems enforcing policies and controls.
 [https://roxanneardary.com/threadgraph/](https://roxanneardary.com/threadgraph/)  
 A modular, graph-structured agent swarm runtime for complex tasks.  
 
-- **TraceGraph OS**  
+- [**TraceGraph OS Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/bb1d317dfd30a5314c97cad4d5c47379c05d031d/TraceGraph%20OS.md)    
 [https://roxanneardary.com/tracegraph-os/](https://roxanneardary.com/tracegraph-os/)  
 A scientific intelligence operating system mapping real science processes.  
 
