@@ -333,7 +333,7 @@ VeritasCode is a modular, retrieval-first, open-source AI platform that analyzes
 [https://roxanneardary.com/vigilquantum/](https://roxanneardary.com/vigilquantum/)  
 A next-generation quantum operating system with autonomous features.
 
-- **Weave Foundry**  
+- [**Weave Foundry Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/657b91afaa02621a52779c78d46a36a90c8bb061/Weave%20Foundry.md)    
 [https://roxanneardary.com/weave-foundry/](https://roxanneardary.com/weave-foundry/)  
 The intelligence layer for fabric transforming ideas into garments.
 
