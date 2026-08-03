@@ -213,7 +213,7 @@ An open-source, privacy-focused search engine designed for transparent rankings,
 [https://roxanneardary.com/openenergystack/](https://roxanneardary.com/openenergystack/)  
 An open-source platform for planning and governing energy infrastructure.  
 
-- **OpenFiscal**  
+- [**OpenFiscal Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/cdf39e0f70d2e62cd00ccdca67b325cfdcb89a64/OpenFiscal.md)    
 [https://roxanneardary.com/openfiscal/](https://roxanneardary.com/openfiscal/)  
 An open-source financial management platform for transparent operations.  
 
