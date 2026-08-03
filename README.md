@@ -313,7 +313,7 @@ The trusted core of financial intelligence for verifying institutions.
 [https://roxanneardary.com/vectorforge/](https://roxanneardary.com/vectorforge/)  
 A modular digital twin and runtime validation platform.  
 
-- **VectorMeter**  
+- [**VectorMeter Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/60fbfdfa9d979cdc87bd591059e8db58e8054116/VectorMeter.md)    
 [https://roxanneardary.com/vectormeter/](https://roxanneardary.com/vectormeter/)  
 VectorMeter is an open, modular resource metering system built on the Open Metering Specification (OMS) that enables immutable, auditable tracking of compute, time, and infrastructure usage across AI, cloud, and physical environments. It provides deterministic billing and full per-agent and per-resource accountability so every charge can be traced, verified, and reproduced from raw system events.  
 
