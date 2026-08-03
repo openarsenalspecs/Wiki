@@ -325,7 +325,7 @@ Vendra is an open-source, modular operating system for smart vending infrastruct
 [https://roxanneardary.com/veritaschain/](https://roxanneardary.com/veritaschain/)  
 VeritasChain is an open specification for evidence-based causal intelligence that enables AI systems to connect legal records, economic changes, research, business decisions, and historical events to understand why outcomes occur. It provides a modular framework for transparent, explainable AI reasoning across industries, institutions, and long-term systems.
 
-- **VeritasCode**  
+- [**VeritasCode Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/1f7f4a7435b11fa58403a7b1e3a8b664b4762859/VeritasCode.md)    
 [https://roxanneardary.com/veritascode/](https://roxanneardary.com/veritascode/)  
 VeritasCode is a modular, retrieval-first, open-source AI platform that analyzes laws across federal, state, county, township, and municipal jurisdictions using evidence-backed retrieval and explainable AI. It identifies potential legal conflicts, constitutional questions, and jurisdictional inconsistencies while providing complete citations and transparent reasoning to support informed human review.
 
