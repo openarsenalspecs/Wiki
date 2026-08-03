@@ -269,7 +269,7 @@ A self-hosted edge request identity system assigning traceable IDs.
 [https://roxanneardary.com/resolva/](https://roxanneardary.com/resolva/)  
 An open-source AI-powered platform that transforms complaints into actionable solutions through collective intelligence, community collaboration, and intelligent system redesign.  
 
-- **RightGuide**  
+- [**RightGuide Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/7dfc8643f6e3117b3af15714af160184f40154c4/RightGuide.md)    
 [https://roxanneardary.com/rightguide/](https://roxanneardary.com/rightguide/)  
 An open-source AI-powered legal analysis platform that helps users understand applicable laws, identify potential legal issues, locate reporting agencies, and discover legal resources based on jurisdiction-specific regulations.  
 
