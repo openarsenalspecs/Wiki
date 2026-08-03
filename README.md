@@ -209,7 +209,7 @@ A semantic runtime system that converts natural language intent into structured,
 [https://roxanneardary.com/opencrawler/](https://roxanneardary.com/opencrawler/)  
 An open-source, privacy-focused search engine designed for transparent rankings, verified business results, and user-controlled data.  
 
-- **OpenEnergyStack**  
+- [**OpenEnergyStack Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/d21b650d8e1d2dd4df904293ddba9844ad0e4635/OpenEnergyStack.md)    
 [https://roxanneardary.com/openenergystack/](https://roxanneardary.com/openenergystack/)  
 An open-source platform for planning and governing energy infrastructure.  
 
