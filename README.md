@@ -233,7 +233,7 @@ An open-source framework for array-level control and simulation of optical emitt
 [https://roxanneardary.com/plantellect/](https://roxanneardary.com/plantellect/)  
 AI gardening platform identifying plants and guiding permaculture. AGPLv3  
 
-- **Project Solstice**  
+- [**Project Solstice Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/476455e23d4166980a3e57414e3868c5bf1867e3/Project%20Solstice.md)    
 [https://roxanneardary.com/project-solstice/](https://roxanneardary.com/project-solstice/)  
 A layered reasoning system stack transforming computation into verifiable cognition.  
 
