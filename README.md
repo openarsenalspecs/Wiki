@@ -221,7 +221,7 @@ An open-source financial management platform for transparent operations.
 [https://roxanneardary.com/openkernel/](https://roxanneardary.com/openkernel/)  
 An AGPL-3.0+ operating kernel for human capability and trajectory intelligence that transforms skills, experience, and resources into structured, positive-sum creation systems.  
 
-- **Perspective Engine**  
+- [**Perspective Engine Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/553621be3152e214ca58f43c7ec11ce511f08e2e/Perspective%20Engine.md)    
 [https://roxanneardary.com/perspective-engine/](https://roxanneardary.com/perspective-engine/)  
 A modular, human-in-the-loop AI system that detects trends, reduces content saturation, and reframes information into unique, niche-aligned perspectives for creators.  
 
