@@ -273,7 +273,7 @@ An open-source AI-powered platform that transforms complaints into actionable so
 [https://roxanneardary.com/rightguide/](https://roxanneardary.com/rightguide/)  
 An open-source AI-powered legal analysis platform that helps users understand applicable laws, identify potential legal issues, locate reporting agencies, and discover legal resources based on jurisdiction-specific regulations.  
 
-- **RoadCraft**  
+- [**RoadCraft Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/0f0a3405ee22933276a58b668b04bd03bedd6752/RoadCraft.md)    
 [https://roxanneardary.com/roadcraft/](https://roxanneardary.com/roadcraft/)  
 An open-source AI motorcycle copilot system that enhances rider safety through helmet-based intelligence, real-time sensor fusion, and optional emergency vehicle control assistance.  
 
