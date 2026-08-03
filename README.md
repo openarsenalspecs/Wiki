@@ -321,7 +321,7 @@ VectorMeter is an open, modular resource metering system built on the Open Meter
 [https://roxanneardary.com/vendra/](https://roxanneardary.com/vendra/)  
 Vendra is an open-source, modular operating system for smart vending infrastructure that connects machines, inventory, payments, analytics, and AI-powered optimization into a unified platform. Built for transparency, interoperability, and data ownership, Vendra enables operators and developers to create the next generation of intelligent automated retail systems without vendor lock-in.
 
-- **VeritasChain**  
+- [**VeritasChain Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/fce27499d3c52a52a8de87ac0782970805f87476/VeritasChain.md)    
 [https://roxanneardary.com/veritaschain/](https://roxanneardary.com/veritaschain/)  
 VeritasChain is an open specification for evidence-based causal intelligence that enables AI systems to connect legal records, economic changes, research, business decisions, and historical events to understand why outcomes occur. It provides a modular framework for transparent, explainable AI reasoning across industries, institutions, and long-term systems.
 
