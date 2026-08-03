@@ -249,7 +249,7 @@ An open-source, community-driven provenance and lineage intelligence system that
 [https://roxanneardary.com/publicenforcer/](https://roxanneardary.com/publicenforcer/)  
 An open-source transparency platform that tracks publicly available federal enforcement data, case activity, financial penalties, and outcomes through searchable, source-linked timelines and analytics.  
 
-- **PublicSafe**  
+- [**PublicSafe Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/7d20d6d6cc2336310ce6bb0a2a7c29ae874f1320/PublicSafe.md)    
 [https://roxanneardary.com/publicsafe/](https://roxanneardary.com/publicsafe/)  
 An open-source browser extension protecting user privacy.  
 
