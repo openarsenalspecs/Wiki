@@ -229,7 +229,7 @@ A modular, human-in-the-loop AI system that detects trends, reduces content satu
 [https://roxanneardary.com/photonforge/](https://roxanneardary.com/photonforge/)  
 An open-source framework for array-level control and simulation of optical emitter systems, enabling programmable structured light through modular scheduling, feedback, and hardware abstraction.  
 
-- **Plantellect**  
+- [**Plantellect Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/974676db5b12d793a0ca7a84c9745535f4f22853/Plantellect.md)    
 [https://roxanneardary.com/plantellect/](https://roxanneardary.com/plantellect/)  
 AI gardening platform identifying plants and guiding permaculture. AGPLv3  
 
