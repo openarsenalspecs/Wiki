@@ -237,7 +237,7 @@ AI gardening platform identifying plants and guiding permaculture. AGPLv3
 [https://roxanneardary.com/project-solstice/](https://roxanneardary.com/project-solstice/)  
 A layered reasoning system stack transforming computation into verifiable cognition.  
 
-- **PromptWave**  
+- [**PromptWave Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/b77c25dc1a8890cbb53c1ab9977a58a084df9fce/PromptWave.md)    
 [https://roxanneardary.com/promptwave/](https://roxanneardary.com/promptwave/)  
 AI companion guiding creators through step-by-step image/video generation with real-time suggestions and iterative improvements. AGPLv3  
 
