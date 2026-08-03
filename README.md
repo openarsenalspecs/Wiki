@@ -217,7 +217,7 @@ An open-source platform for planning and governing energy infrastructure.
 [https://roxanneardary.com/openfiscal/](https://roxanneardary.com/openfiscal/)  
 An open-source financial management platform for transparent operations.  
 
-- **OpenKernel**  
+- [**OpenKernel Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/fa59a0eaad5ed854ae3fb2680995c04d856f5fc2/OpenKernel.md)    
 [https://roxanneardary.com/openkernel/](https://roxanneardary.com/openkernel/)  
 An AGPL-3.0+ operating kernel for human capability and trajectory intelligence that transforms skills, experience, and resources into structured, positive-sum creation systems.  
 
