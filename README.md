@@ -305,7 +305,7 @@ A modular, graph-structured agent swarm runtime for complex tasks.
 [https://roxanneardary.com/tracegraph-os/](https://roxanneardary.com/tracegraph-os/)  
 A scientific intelligence operating system mapping real science processes.  
 
-- **VaultCore OS**  
+- [**VaultCore OS Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/9fa0f06b1383a8f88238010847dde6a6f7b23077/VaultCore%20OS.md)    
 [https://roxanneardary.com/vaultcore-os/](https://roxanneardary.com/vaultcore-os/)  
 The trusted core of financial intelligence for verifying institutions.  
 
