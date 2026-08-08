@@ -18,7 +18,8 @@ The project is designed to make legal information more accessible while promotin
 - Legal risk assessment
 - Legal issue categorization
 
-### Jurisdiction Detection
+### [Jurisdiction Detection Module Specification](https://gitlab.com/Roxanne_Ardary/rightguide/-/blob/c9c8a0b2da26926bf6b114d87855c3908b2683a7/Jurisdiction%20Detection.md)  
+[https://roxanneardary.com/jurisdiction-detection/](https://roxanneardary.com/jurisdiction-detection/)  
 - User-provided location analysis
 - City identification
 - County identification
@@ -48,7 +49,8 @@ The project is designed to make legal information more accessible while promotin
 - Step-by-step legal analysis
 - User-friendly legal guidance
 
-### Liability Protection Guidance
+### [Liability Protection Guidance Module Specification](https://gitlab.com/Roxanne_Ardary/rightguide/-/blob/fc2ef735a86e500e4c781f58a3c723cb50143dec/Liability%20Protection%20Guidance.md)  
+[https://roxanneardary.com/liability-protection-guidance/](https://roxanneardary.com/liability-protection-guidance/)  
 - Civil liability reduction recommendations
 - Criminal liability awareness guidance
 - Evidence preservation recommendations
@@ -78,7 +80,8 @@ The project is designed to make legal information more accessible while promotin
 - Legal clinic information
 - Jurisdiction-specific legal assistance resources
 
-### Case Documentation Tools
+### [Case Documentation Tools Module Specification](https://gitlab.com/Roxanne_Ardary/rightguide/-/blob/87454160788da07938dd4ace57977c4a5b273d48/Case%20Documentation%20Tools.md)  
+[https://roxanneardary.com/case-documentation-tools/](https://roxanneardary.com/case-documentation-tools/)  
 - Incident timeline creation
 - Evidence tracking
 - Document organization
@@ -108,7 +111,8 @@ The project is designed to make legal information more accessible while promotin
 - Legal document retrieval
 - Research history
 
-### AI Features
+### [AI Features Module Specification](https://gitlab.com/Roxanne_Ardary/rightguide/-/blob/3b5bb4c369dff9b64d6a361288209f2a2b1eb950/AI%20Features.md)  
+[https://roxanneardary.com/ai-features/](https://roxanneardary.com/ai-features/)  
 - Large language model integration
 - Retrieval-augmented generation (RAG)
 - Jurisdiction-aware reasoning
