@@ -219,7 +219,11 @@ An open-source financial management platform for transparent operations.
 
 - [**OpenKernel Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/fa59a0eaad5ed854ae3fb2680995c04d856f5fc2/OpenKernel.md)    
 [https://roxanneardary.com/openkernel/](https://roxanneardary.com/openkernel/)  
-An AGPL-3.0+ operating kernel for human capability and trajectory intelligence that transforms skills, experience, and resources into structured, positive-sum creation systems.  
+An AGPL-3.0+ operating kernel for human capability and trajectory intelligence that transforms skills, experience, and resources into structured, positive-sum creation systems.
+
+- [**OpenLimb Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/3e1349ff6b109bc5870724ecbb372302eabdef70/OpenLimb.md)  
+[https://roxanneardary.com/openlimb/](https://roxanneardary.com/openlimb/)  
+An open-source modular robotics platform for designing and building robotic limbs, wearable systems, and industrial robotics through open hardware, AI-assisted engineering, and community-driven innovation.  
 
 - [**Perspective Engine Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/553621be3152e214ca58f43c7ec11ce511f08e2e/Perspective%20Engine.md)    
 [https://roxanneardary.com/perspective-engine/](https://roxanneardary.com/perspective-engine/)  
