@@ -32,7 +32,6 @@ A global AI-native, fully encrypted social network built on verified human ident
 - [**Alpha Risk Review Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/78b0c063f6e5242617335225c09171a875cfc5ad/Alpha%20Risk%20Review.md)    
 [https://roxanneardary.com/alpha-risk-review/](https://roxanneardary.com/alpha-risk-review/)  
 A modular adversarial intelligence system that stress-tests business plans to reveal structural weaknesses, failure points, and the conditions required for success.  
-
 - [**AuthorityCore Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/61e276f94b547630f0fff6b1f6295da7cf4ea4b3/AuthorityCore.md)    
 [https://roxanneardary.com/authoritycore/](https://roxanneardary.com/authoritycore/)  
 A focus-oriented AI governance and reliability framework that improves long-horizon task execution through objective contracts, jurisdiction-aware reasoning, evidence-constrained retrieval, and human-in-the-loop oversight.  
@@ -71,7 +70,11 @@ An open-source, AGPL 3.0+ federated intelligence infrastructure for autonomous a
 
 - [**ContentGraph Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/7000f51e1bb3a4f1e32750e6b2797939127d8ad8/ContentGraph.md)    
 [https://roxanneardary.com/contentgraph/](https://roxanneardary.com/contentgraph/)  
-A relational layer over WordPress content that transforms pages and posts into a structured, graph-based system using modular Spec Containers.  
+A relational layer over WordPress content that transforms pages and posts into a structured, graph-based system using modular Spec Containers.
+
+- [**CortexCFO Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/01d40aec6a0f6acac295f4f5a85169761b8cbd00/CortexCFO.md)  
+[https://roxanneardary.com/cortexcfo/](https://roxanneardary.com/cortexcfo/)  
+An AGPL-3.0+ locally hosted AI CFO platform that transforms historical financial data into future strategy through expense forecasting, cash flow prediction, financial risk detection, and private AI-powered business intelligence.
 
 - [**Distributed Economic Governance System Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/d2925fad9fc5dc00a17978a79508fdab73772ddf/Distributed%20Economic%20Governance%20System.md)    
 [https://roxanneardary.com/distributed-economic-governance-system/](https://roxanneardary.com/distributed-economic-governance-system/)  
