@@ -78,7 +78,11 @@ An AGPL-3.0+ locally hosted AI CFO platform that transforms historical financial
 
 - [**Distributed Economic Governance System Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/d2925fad9fc5dc00a17978a79508fdab73772ddf/Distributed%20Economic%20Governance%20System.md)    
 [https://roxanneardary.com/distributed-economic-governance-system/](https://roxanneardary.com/distributed-economic-governance-system/)  
-A modular AGPL 3.0+ platform for simulating, analyzing, and improving transparency, accountability, and structural resilience in economic and organizational systems.  
+A modular AGPL 3.0+ platform for simulating, analyzing, and improving transparency, accountability, and structural resilience in economic and organizational systems.
+
+- [**Domestic Economics**](https://github.com/openarsenalspecs/Wiki/blob/f4de7373e95677adc87545f5d31753fb204e4fa8/Domestic%20Economics.md)  
+[https://roxanneardary.com/domestic-economics/](https://roxanneardary.com/domestic-economics/)  
+Domestic Economics is an AI-powered open source specification that measures and values the labor, mental work, and household production behind a functioning home using current market wages and comparable occupations. It provides a modular framework for calculating household economic contributions, lifetime labor value, replacement costs, and other measures of domestic work.  
  
 - [**EarthMetrics Module Specifications**](https://github.com/openarsenalspecs/Wiki/blob/8a5b541ed23368c5e92497ab4f21942464a58faf/EarthMetrics.md)    
 [https://roxanneardary.com/earthmetrics/](https://roxanneardary.com/earthmetrics/)  
