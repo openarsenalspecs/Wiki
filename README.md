@@ -21,6 +21,10 @@ All specifications are designed to be adaptable across diverse technical ecosyst
 
 # Wiki Specs:
 
+- [**Archima Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/d789272b1b4a5f97202048aee3cf6a64616e370b/Archima.md)  
+[https://roxanneardary.com/archima/](https://roxanneardary.com/archima/)  
+Archima is an open source AI architectural intelligence specification that transforms architectural vision into coordinated 2D and 3D designs, schematics, building systems, and detailed construction documentation. It combines architectural co-creation, parametric modeling, architectural styles, zoning and regulatory adaptation, design validation, and modular plugins to help turn what you imagine into architecture.
+
 - [**AgoraTV Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/a2e652671f8e5c6273d9586bf18905d68db7c5f8/AgoraTV.md)    
 [https://roxanneardary.com/agoratv/](https://roxanneardary.com/agoratv/)  
 An open-source, democratically owned global broadcasting platform that empowers independent voices through public media infrastructure, multilingual accessibility, and transparent governance.  
