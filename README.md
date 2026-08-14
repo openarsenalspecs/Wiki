@@ -348,6 +348,10 @@ VeritasCode is a modular, retrieval-first, open-source AI platform that analyzes
 [https://roxanneardary.com/vigilquantum/](https://roxanneardary.com/vigilquantum/)  
 A next-generation quantum operating system with autonomous features.
 
+- [**WealthGuard Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/769dfeba98afad73a3729af4291e2caccbe05cfb/WealthGuard.md)  
+[https://roxanneardary.com/wealthguard/](https://roxanneardary.com/wealthguard/)  
+WealthGuard is an open-source, privacy-first retirement and generational wealth planning platform that uses AI, jurisdiction-aware analysis, and scenario modeling to help users protect and grow their wealth. With end-to-end encryption and transparent recommendations, it helps users plan for retirement, inheritance, and long-term financial security across generations.  
+
 - [**Weave Foundry Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/657b91afaa02621a52779c78d46a36a90c8bb061/Weave%20Foundry.md)    
 [https://roxanneardary.com/weave-foundry/](https://roxanneardary.com/weave-foundry/)  
 The intelligence layer for fabric transforming ideas into garments.
