@@ -1,9 +1,12 @@
 # AgoraTV
 ## Independent Voices Worldwide
+- HTML Mirror:  [https://roxanneardary.com/agoratv-specification/](https://roxanneardary.com/agoratv-specification/)
+
+---
 
 AgoraTV is an open-source, democratically governed global broadcasting infrastructure designed to transform television into a public media commons. The platform enables independent creators, journalists, educators, communities, and organizations to publish, distribute, and discover programming without dependence on centralized corporate networks.
 
-Inspired by the ancient agora — the public square where citizens gathered to exchange ideas — AgoraTV creates a modern digital broadcast environment where voices from around the world can participate in media creation, governance, and distribution.
+Inspired by the ancient agora, the public square where citizens gathered to exchange ideas, AgoraTV creates a modern digital broadcast environment where voices from around the world can participate in media creation, governance, and distribution.
 
 ---
 
@@ -452,8 +455,4 @@ Please note the following:
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
-For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
-
----
-
-**AgoraTV — Independent Voices Worldwide** 📡🌍
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.  
