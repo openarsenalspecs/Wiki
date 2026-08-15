@@ -1,4 +1,7 @@
 # Ralph Workflow Specification
+- HTML Mirror:  [https://roxanneardary.com/ralph-workflow-specification/](https://roxanneardary.com/ralph-workflow-specification/)
+
+---
 
 ## Overview
 
@@ -362,34 +365,7 @@ Creates completed repository update
 
 ↓
 
-Updated Project
-
----
-
-# Quick Start
-
-Install Ralph Workflow using Rust tooling.
-
-Installation:
-
-cargo install ralph-workflow
-
-Create a project specification:
-
-PROMPT.md
-
-Define:
-
-- Feature requirements
-- Expected behavior
-- Technical constraints
-- Acceptance criteria
-
-Run:
-
-ralph
-
-Ralph Workflow will execute the autonomous development cycle.
+Updated Project  
 
 ---
 # Workflow Diagram
@@ -683,34 +659,6 @@ OpenCode
 
 Additional providers may be added through plugin modules.
 
----
-
-# Code Quality Philosophy
-
-Ralph Workflow prioritizes:
-
-- Deterministic workflows
-- Repeatable automation
-- Clear specifications
-- Small incremental changes
-- Automated validation
-- Independent review cycles
-
-AI agents should be used as engineering accelerators while maintaining software engineering standards.
-
----
-
-# Open Arsenal
-
-Ralph Workflow is part of the Open Arsenal collection of modular software specifications.
-
-Open Arsenal specifications are designed to provide:
-
-- Open standards
-- Modular architectures
-- Local-first development
-- Vendor-neutral implementations
-- Human-controlled AI workflows
 
 ---
 
