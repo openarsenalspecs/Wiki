@@ -104,7 +104,7 @@ The operating system for removing unnecessary work through time valuation, deleg
 [https://roxanneardary.com/eurekaai/](https://roxanneardary.com/eurekaai/)  
 An open-source AI system that analyzes scientific literature to identify research gaps and generate novel hypotheses to accelerate scientific discovery. AGPLv3
 
-- [**EviAI Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/a15408bb8a6c93eae954bc43cd1ac7ad812e702b/EviAI.md)    
+- [**EviAI Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/17c5a3a9ebe6fa3b71deaf5c9e793f234284bb39/EviAI.md)      
 [https://roxanneardary.com/eviai/](https://roxanneardary.com/eviai/)  
 A privacy-first, fully self-contained AI platform that delivers verifiable answers, secure workflows, and powerful multimodal creation all in one place.  
 
