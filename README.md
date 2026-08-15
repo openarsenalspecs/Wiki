@@ -300,7 +300,7 @@ An open source, privacy-first modular game creation platform.
 [https://roxanneardary.com/saturnet/](https://roxanneardary.com/saturnet/)  
 A modular AI-driven astronomy intelligence system for the night sky.  
 
-- [**SignalNet Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/1968b780d9560ce80382914808805b9c7993d4df/SignalNet.md)    
+- [**SignalNet Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/9ca14255abfd181b20bcabf9be236d0958d1fcce/SignalNet.md)    
 [https://roxanneardary.com/signalnet/](https://roxanneardary.com/signalnet/)  
 An open-source AI system analyzing public claims against actions.
 
