@@ -1,17 +1,18 @@
-# 🛡️ FortiMind
-## **Your Ethical and Encrypted Decision Partner**
+# FortiMind
+**Your Ethical and Encrypted Decision Partner**
+- HTML Mirror:  [https://roxanneardary.com/fortimind-specification/](https://roxanneardary.com/fortimind-specification/)
+
+---
 
 FortiMind is an open-source, human-governed AI decision intelligence framework designed to redefine high-stakes decision support through **ethics, constitutional awareness, transparency, security, and absolute human authority**.
 
 FortiMind is built around one foundational rule:
 
-> **AI may analyze, simulate, evaluate, and provide recommendations, but no decision or action may proceed without explicit human authorization.**
-
-Every recommendation is evaluated through ethical analysis, legal review, constitutional compliance monitoring, risk assessment, and transparent reasoning. The entire system is protected through end-to-end encryption, secure auditing, and modular governance controls.
+**AI may analyze, simulate, evaluate, and provide recommendations, but no decision or action may proceed without explicit human authorization.**
 
 ---
 
-# ⚖️ Mission & Vision
+# Mission & Vision
 
 FortiMind exists to create a new generation of AI systems focused on:
 
@@ -30,7 +31,7 @@ It is designed to **strengthen human decision-making with secure, transparent, a
 
 ---
 
-# 🧠 Core Design Principles
+# Core Design Principles
 
 ## Human Authority First
 
@@ -85,7 +86,7 @@ Protection applies to:
 
 ---
 
-# 🏗️ Modular Architecture
+# Modular Architecture
 
 FortiMind is designed as a modular framework.
 
@@ -95,7 +96,7 @@ The **Core Modules** provide mandatory safety, governance, encryption, and reaso
 
 ---
 
-# 🔐 Core Modules
+# Core Modules
 
 ## 1. Ethical Decision Intelligence Core
 
@@ -348,7 +349,7 @@ Features:
 
 ---
 
-# 🔄 FortiMind Decision Workflow
+# FortiMind Decision Workflow
 
 Encrypted Data Input
 
@@ -394,7 +395,7 @@ Encrypted Audit Record
 
 ---
 
-# 🔒 Security Requirements
+# Security Requirements
 
 All Core Modules and Plugins must:
 
@@ -404,14 +405,6 @@ All Core Modules and Plugins must:
 - Prevent unauthorized autonomous execution
 - Preserve AGPL 3.0+ requirements
 - Maintain attribution requirements  
-
----
-
-# 🛡️ FortiMind
-
-**Your Ethical and Encrypted Decision Partner**
-
-Building AI systems where intelligence supports humanity, but humans remain responsible for decisions.  
 
 ---
 
@@ -432,7 +425,7 @@ Building AI systems where intelligence supports humanity, but humans remain resp
 
 ---
 
-# 📜 License & Notice Requirements
+# License & Notice Requirements
 
 **FortiMind** is released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   
 By contributing to this project, you agree that your contributions will also be released under this license.
@@ -449,10 +442,3 @@ Please note the following:
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
 For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
-
----
-
-# 📘 Summary
-
-FortiMind is an encrypted, ethical, constitutionally aligned military decision-support AI built for transparency, trust, and human control.  
-It exists to safeguard ethical decision making, promote peace-first strategies, and help ensure that technology never overrides human authority or constitutional principles.
