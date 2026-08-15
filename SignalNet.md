@@ -1,5 +1,6 @@
 # SignalNet
 **Data. Claims. Reality.**
+- HTML Mirror:  [https://roxanneardary.com/signalnet-specification/](https://roxanneardary.com/signalnet-specification/)
 
 ---
 
@@ -448,11 +449,4 @@ Please note the following:
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
-For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
-
----
-
-## Mission Statement
-
-> **SignalNet: Data. Claims. Reality.**  
-> The ultimate truthseeker AI — exposing the truth behind claims, tracking mismanagement, and ensuring transparency at every level.
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.  
