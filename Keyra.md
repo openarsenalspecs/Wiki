@@ -1,6 +1,8 @@
 # Keyra
-
 **Secure by Key, Secure by Design.**
+- HTML Mirror:  [https://roxanneardary.com/keyra-specification/](https://roxanneardary.com/keyra-specification/)
+
+---
 
 Keyra is an open-source, quantum-safe authentication platform that replaces passwords with cryptographic identity, post-quantum security, and privacy-preserving authentication. Designed as a modular platform, Keyra allows organizations to deploy only the functionality they need while extending the platform through optional plugins.
 
