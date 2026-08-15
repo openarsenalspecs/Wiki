@@ -1,10 +1,6 @@
-# 📘 EviAI 3.1 — Secure Intelligence Edition
-
-### *“Where Every Answer Tells the Story of Its Source.”*
-
-**Concept by Roxanne Ardary — https://roxanneardary.com**
-
-Licensed under **AGPL-3.0+** with customized Section 7 attribution.
+# 📘 EviAI - Secure Intelligence Edition
+**Where Every Answer Tells the Story of Its Source.**
+- HTML Mirror:  [https://roxanneardary.com/eviai-specification/](https://roxanneardary.com/eviai-specification/)
 
 ---
 
@@ -516,67 +512,7 @@ Available packs:
 - COPPA
 - CCPA
 - PCI-DSS
-- NIST 800-53
-
----
-
-# 🖥️ Platform Support
-
-Designed for:
-
-- Windows
-- macOS
-- Linux
-- Mobile platforms
-- Web interfaces
-
----
-
-# 🚀 Installation
-
-Installation instructions will be finalized after implementation stack selection.
-
-Supported deployment models:
-
-- Desktop application
-- Local server
-- Private organization deployment
-- Portable encrypted instance
-
----
-
-# 🔭 Roadmap
-
-## EviAI 3.2
-
-Distributed intelligence mode
-
-## EviAI 3.3
-
-Autonomous application builder
-
-## EviAI 4.0
-
-Neural Cognitive Mesh
-
----
-
-# 🙌 Vision
-
-EviAI is building:
-
-## A Trusted Intelligence System
-
-An AI that:
-
-- Knows
-- Verifies
-- Remembers
-- Executes
-- Protects
-- Evolves
-
-**Where every answer tells the story of its source.**
+- NIST 800-53  
 
 ---
 
@@ -613,12 +549,4 @@ Please note the following:
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
-For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
-
----
-
-# 🔭 Roadmap
-
-- EviAI 3.2 — Distributed cluster mode  
-- EviAI 3.3 — Full autonomous app builder  
-- EviAI 4.0 — Neural Cognitive Mesh
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.  
