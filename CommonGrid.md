@@ -1,6 +1,8 @@
 # CommonGrid
-
 **Powering Open Data, Together**
+- HTML Mirror:  [https://roxanneardary.com/commongrid-specification/](https://roxanneardary.com/commongrid-specification/)
+
+---
 
 CommonGrid is an open-source, AI-powered platform for distributed web crawling, intelligent data extraction, dataset federation, and structured data distribution. Built with a modular architecture, it serves as a foundation for developers to build scalable open-source software stacks without recreating the underlying data collection and processing infrastructure.
 
@@ -26,14 +28,6 @@ The platform is designed to scale from a single workstation to globally distribu
 - Vendor Neutral
 - Privacy Respecting
 - API First
-
----
-
-# Specification
-
-CommonGrid is organized into independent modules that communicate through standardized interfaces. Every module can be developed, deployed, upgraded, and replaced independently.
-
-Each module performs a single responsibility while remaining interoperable with every other module.
 
 ---
 
@@ -476,26 +470,3 @@ Please note the following:
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
 For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
-
----
-
-## Roadmap
-
-**v0.1:** Local crawler, dataset API, AI extraction, schema inference  
-**v0.5:** Federated dataset registry, real-time dataset streams, AI query assistant  
-**v1.0:** Global deployment, distributed crawl network, pipeline portability  
-**v2.0:** Knowledge graph integration, multi-format extraction, dataset diff engine  
-**v3.0:** Planet-scale deployment, autonomous discovery engine, full dataset federation  
-**v5.0:** Global open data marketplace, AI-assisted analytics, historical dataset archive  
-
-Feature flags allow enabling planet-scale infrastructure gradually.  
-
----
-
-## Community & Support
-
-- Use Codeberg Issues for discussions, bug reports, and feature requests  
-- Documentation is stored in `/docs` for architecture, deployment, and SDK references  
-- Optional community chat via Matrix, Discord, or Slack  
-
-**Join CommonGrid** — help build the **open infrastructure for web knowledge**.
