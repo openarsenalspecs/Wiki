@@ -124,7 +124,7 @@ A modular civic intelligence platform that uses AI to break down legislation int
 [https://roxanneardary.com/finishline/](https://roxanneardary.com/finishline/)  
 An open-source AI-powered debt analysis and optimization platform that evaluates debt instruments, loan terms, interest costs, and prepayment penalties to help users identify the smartest path to becoming debt free.  
 
-- [**FortiMind Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/c19dc3021728d324d5535d6e1ff5a142df6a080d/FortiMind.md)    
+- [**FortiMind Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/58df3b82b17f21c4a3ec430521cd16be8d6461be/FortiMind.md)  
 [https://roxanneardary.com/fortimind/](https://roxanneardary.com/fortimind/)  
 Your Ethical and Encrypted Decision Partner, a human-governed AI framework focused on secure, transparent, and constitutionally aligned decision support.  
 
