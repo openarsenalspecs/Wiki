@@ -1,4 +1,7 @@
 # Lumina Specification
+- HTML Mirror:  [https://roxanneardary.com/lumina-specification/](https://roxanneardary.com/lumina-specification/)  
+
+---
 
 ## Project Overview
 
@@ -7,6 +10,8 @@ Lumina is an open-source universal gaming platform designed to unify global game
 Lumina is designed to complement existing game distributors rather than requiring them to be replaced. The platform can index games from external distributors and provide direct links to their official game pages, downloads, storefronts, or launch platforms. Creators can also publish and sell games directly through Lumina.
 
 The platform is designed around modular architecture, interoperability, security, privacy, creator ownership, global accessibility, and transparent revenue sharing.
+
+---
 
 ## Project Goals
 
@@ -785,134 +790,6 @@ Features may include:
 - Inventory APIs.
 - Analytics APIs.
 
-## Interoperability Principles
-
-Lumina should prioritize interoperability over platform exclusivity.
-
-External integrations should:
-
-- Use documented interfaces.
-- Respect distributor terms.
-- Preserve original creator and distributor attribution.
-- Preserve official purchase and download pathways.
-- Avoid unauthorized copying of proprietary game files.
-- Avoid bypassing digital rights management.
-- Respect licensing restrictions.
-- Provide clear source attribution.
-
-## Privacy Principles
-
-Lumina should follow privacy-by-design principles.
-
-The platform should:
-
-- Minimize unnecessary data collection.
-- Encrypt sensitive information.
-- Give users control over personal information.
-- Provide configurable privacy settings.
-- Separate public profiles from private account information.
-- Protect private communications.
-- Provide appropriate data export and deletion capabilities.
-- Avoid unnecessary tracking.
-
-## Financial Integrity
-
-Financial functionality should provide accurate and auditable accounting.
-
-The platform should:
-
-- Maintain transaction records.
-- Record platform fees.
-- Record creator revenue.
-- Record profit-sharing allocations.
-- Maintain payout histories.
-- Support refunds and reversals.
-- Handle currency precision correctly.
-- Provide reconciliation capabilities.
-- Support appropriate financial compliance requirements.
-
-## Security Requirements
-
-Security-sensitive components must receive additional review.
-
-Contributors should:
-
-- Never commit secrets.
-- Never expose private keys.
-- Never store passwords in plaintext.
-- Use secure cryptographic libraries.
-- Validate external input.
-- Apply least-privilege access.
-- Protect payment and identity data.
-- Document security-sensitive changes.
-- Report vulnerabilities through the project's designated security process.
-
-## Development Principles
-
-Lumina development should prioritize:
-
-- Open-source technologies.
-- Modular architecture.
-- Interoperability.
-- Security.
-- Privacy.
-- Accessibility.
-- Performance.
-- Scalability.
-- Maintainability.
-- Transparent governance.
-- Creator ownership.
-- User choice.
-
-## Documentation Requirements
-
-New functionality should include appropriate documentation.
-
-Documentation should explain:
-
-- Purpose.
-- Configuration.
-- APIs.
-- User workflows.
-- Security considerations.
-- Integration requirements.
-- Licensing considerations.
-- Known limitations.
-
-## Testing Requirements
-
-New functionality should include appropriate automated testing.
-
-Testing should cover, where applicable:
-
-- Unit functionality.
-- Integration behavior.
-- API behavior.
-- Authentication.
-- Authorization.
-- Payment processing.
-- Revenue sharing.
-- Encryption.
-- Data validation.
-- Error handling.
-- Security-sensitive workflows.
-
-## Accessibility
-
-Lumina should be designed to support users with different abilities.
-
-The platform should prioritize:
-
-- Keyboard navigation.
-- Screen reader compatibility.
-- Accessible forms.
-- Accessible controls.
-- Sufficient text readability.
-- Alternative text.
-- Captions and transcripts where appropriate.
-- Reduced-motion options.
-- Clear navigation.
-
 ---
 
 ## Specification Branding License (SBL)
@@ -942,10 +819,10 @@ Please note the following:
 - All contributions must comply with the **AGPL-3.0+** terms.  
 - Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
   **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
-- Lumina specificiations are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- Lumina specifications are free to use with attribution. A Specification Branding License can be negotiated upon request.
 - The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.  
   Any update that adds new contributors or modifies attribution should also update `notice.md`. 
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
-For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.  
