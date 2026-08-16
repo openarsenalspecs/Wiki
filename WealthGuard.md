@@ -1,6 +1,8 @@
 # WealthGuard
-
 **Where Security Meets Smart Planning**
+- HTML Mirror:  [https://roxanneardary.com/wealthguard-specification/](https://roxanneardary.com/wealthguard-specification/)  
+
+---
 
 ## Overview
 
@@ -11,6 +13,8 @@ The platform combines retirement planning, investment analysis, tax and regulato
 WealthGuard is designed around a privacy-first, local-first architecture with end-to-end encryption and user-controlled data. Its purpose is to provide transparent and explainable financial planning tools that help users create long-term roadmaps for retirement and future generations.
 
 WealthGuard does not treat retirement planning as a single calculation. The system evaluates the relationships between income, assets, liabilities, investments, taxes, regulations, economic conditions, longevity, inheritance goals, and changing market conditions.
+
+---
 
 ## Design Principles
 
@@ -640,90 +644,6 @@ Features may include:
 
 Professional access must remain under user control.
 
-## AI Transparency Requirements
-
-All AI systems used by WealthGuard must support transparent and reviewable outputs.
-
-Recommendations must identify:
-
-- Relevant inputs
-- Assumptions
-- Applicable jurisdiction
-- Data sources where available
-- Reasoning factors
-- Risks
-- Uncertainty
-- Alternative outcomes where appropriate
-
-The system must not represent predictions as guaranteed outcomes.
-
-## Privacy Requirements
-
-WealthGuard must prioritize user privacy.
-
-Core privacy requirements include:
-
-- Data minimization
-- Local-first operation where possible
-- User-controlled data sharing
-- End-to-end encryption for sensitive shared data
-- No unnecessary collection of personal information
-- No sale of personal financial data
-- Clear disclosure of external data connections
-- User control over data export and deletion
-
-## Security Requirements
-
-Security features must be treated as core functionality.
-
-Requirements include:
-
-- Auditable encryption architecture
-- Secure key management
-- Secure authentication
-- Device authorization controls
-- Protection against unauthorized access
-- Encrypted backups
-- Dependency security review
-- Security testing
-- Vulnerability reporting procedures
-
-Security claims must accurately describe the protections implemented by the software.
-
-## Extensibility Requirements
-
-WealthGuard must support independent development and maintenance of optional functionality.
-
-Plugins should:
-
-- Use documented interfaces
-- Declare dependencies
-- Define permissions
-- Identify data access requirements
-- Document security implications
-- Avoid unnecessary access to decrypted user data
-- Remain independently versioned where appropriate
-
-## Open-Source Development
-
-WealthGuard is developed as an open-source project.
-
-The project should encourage contributions involving:
-
-- Financial modeling
-- Tax and jurisdiction support
-- Security improvements
-- Encryption architecture
-- AI transparency
-- Industry analysis
-- Scenario modeling
-- Accessibility
-- Internationalization
-- Documentation
-- Testing
-
-Contributions must preserve the project's privacy, security, transparency, and modular design principles.
-
 ---
 
 ## Specification Branding License (SBL)
@@ -759,4 +679,4 @@ Please note the following:
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
-For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.  
