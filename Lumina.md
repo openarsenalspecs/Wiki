@@ -1,4 +1,5 @@
 # Lumina Specification
+**Play Smarter. Trade Safer. Shine Brighter.**
 - HTML Mirror:  [https://roxanneardary.com/lumina-specification/](https://roxanneardary.com/lumina-specification/)  
 
 ---
