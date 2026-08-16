@@ -184,7 +184,7 @@ Platform analyzing historical texts to uncover emotional patterns and shared hum
 [https://gitlab.com/Roxanne_Ardary/lumenkinetic-network](https://gitlab.com/Roxanne_Ardary/lumenkinetic-network)  
 A modular piezoelectric surface system that converts motion into electrical energy while generating real-time spatial intelligence data from physical interactions.  
 
-- [**Lumina Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/1b07a37946bbe44b355a49d12b6783b7256204c5/Lumina.md)  
+- [**Lumina Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/f1e0bf613521ef5d6cc33bccb05b91340eadb7b0/Lumina.md)  
 [https://roxanneardary.com/lumina/](https://roxanneardary.com/lumina/)  
 An open-source universal gaming platform that unifies global game discovery, creator monetization, and secure peer-to-peer digital ecosystems.  
 
