@@ -1,7 +1,6 @@
 # VigilQuantum
-
 **The Quantum OS That Never Sleeps**  
-**Copyright (C) 2026 Roxanne Ardary (https://roxanneardary.com/)**
+- HTML Mirror:  [https://roxanneardary.com/vigilquantum-specification/](https://roxanneardary.com/vigilquantum-specification/)
 
 ---
 
@@ -17,45 +16,7 @@ VigilQuantum transforms the traditional operating system model from a passive ex
 
 ---
 
-# Core Design Principles
-
-## Autonomous Resilience
-
-VigilQuantum is designed around the principle that modern systems must be capable of:
-
-- Detecting failures before they become critical
-- Automatically repairing damaged components
-- Learning from operational events
-- Adapting to changing environments
-- Maintaining secure execution states
-
----
-
-## Quantum Native Architecture
-
-VigilQuantum provides a foundation for:
-
-- Quantum workload management
-- Hybrid classical and quantum computing
-- Quantum hardware abstraction
-- Quantum algorithm execution
-- Quantum security operations
-
----
-
-## Security First Computing
-
-Every component is designed with:
-
-- Zero trust architecture
-- Post-quantum cryptographic protection
-- Continuous verification
-- Autonomous threat response
-- Immutable system auditing
-
----
-
-# Full Feature Specification
+# Specification
 
 # 1. Quantum Operating System Core
 
@@ -402,104 +363,6 @@ VigilQuantum
 ├── Learning Models
 └── Distributed Defense
 ```
----
-
----
-
-# 9. Moonshot Capabilities
-
-## Digital Immune System
-
-VigilQuantum introduces an immune-system model for computing.
-
-Capabilities:
-
-- Detect abnormal behavior
-- Identify digital pathogens
-- Neutralize threats
-- Repair damaged components
-- Improve defensive intelligence
-
----
-
-## Adaptive Reality Interface
-
-Future interface concepts:
-
-- AI-controlled system environments
-- Context-aware computing
-- Intelligent workflow adaptation
-- Predictive user assistance
-
----
-
-## Global Threat Forecasting
-
-Capabilities:
-
-- Worldwide threat analysis
-- Emerging attack prediction
-- Security intelligence modeling
-- Autonomous defense preparation
-
----
-
-## Dynamic Resource Scaling
-
-Features:
-
-- Automatic workload expansion
-- Quantum resource optimization
-- AI-driven infrastructure management
-- Real-time capacity adjustment
-
----
-
-# Security Philosophy
-
-VigilQuantum follows a future-focused security model:
-
-- Assume compromise
-- Detect continuously
-- Respond autonomously
-- Recover automatically
-- Improve permanently
-
----
-
-# Intended Use Cases
-
-VigilQuantum is designed for:
-
-- Quantum computing platforms
-- Research laboratories
-- Enterprise infrastructure
-- Government systems
-- Secure cloud environments
-- AI research environments
-- Critical infrastructure
-- High-security computing networks
-
----
-
-# Future Roadmap
-
-Potential future modules:
-
-- Quantum AI acceleration layer
-- Autonomous infrastructure orchestration
-- Distributed quantum operating networks
-- Advanced privacy computation
-- Self-evolving security intelligence
-- Quantum internet compatibility
-
----
-
-# Conclusion
-
-VigilQuantum represents a future generation of operating systems where security, intelligence, and resilience are built into the foundation.
-
-By combining quantum computing, autonomous AI protection, predictive intelligence, and self-healing infrastructure, VigilQuantum creates an operating environment designed to continuously defend, optimize, and evolve.
 
 ---
 
@@ -536,10 +399,4 @@ Please note the following:
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
-For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
-
-## Acknowledgments
-
-Inspired by China’s Origin Pilot quantum OS
-
-Built with cutting-edge AI, quantum security, and autonomous self-healing concepts
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.  
