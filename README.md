@@ -148,7 +148,7 @@ An open-source thermal infrastructure standard that enables safe recovery of was
 [https://roxanneardary.com/human-decision-specification/](https://roxanneardary.com/human-decision-specification/)  
 A modular open standard for human-guided AI systems that ensures all AI-driven recommendations and actions are validated through explicit human intent and approval.  
 
-- [**InspectHome Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/c859286b9dd3303546036aff6e615772f19761db/InspectHome.md)    
+- [**InspectHome Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/76cc9785f784eef228d4341a3493b66c530738e0/InspectHome.md)  
 [https://roxanneardary.com/inspecthome/](https://roxanneardary.com/inspecthome/)  
 An open-source, transparency-first real estate platform that requires full property disclosures, verified documentation, and encrypted user data to help people find homes with confidence.  
 
