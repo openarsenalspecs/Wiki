@@ -128,7 +128,7 @@ An open-source AI-powered debt analysis and optimization platform that evaluates
 [https://roxanneardary.com/fortimind/](https://roxanneardary.com/fortimind/)  
 Your Ethical and Encrypted Decision Partner, a human-governed AI framework focused on secure, transparent, and constitutionally aligned decision support.  
 
-- [**HappyHouse Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/ee17189949cf4ffea09691e281b291e94f1baa5c/HappyHouse.md)    
+- [**HappyHouse Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/e7a174019d5be87bb5f25e1b73de0f9d70fad86a/HappyHouse.md)  
 [https://roxanneardary.com/happyhouse/](https://roxanneardary.com/happyhouse/)  
 An AI-powered home maintenance and property intelligence platform for tracking systems, managing repairs, and predicting maintenance needs.  
 
