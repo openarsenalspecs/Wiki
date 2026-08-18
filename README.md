@@ -88,7 +88,7 @@ A modular AGPL 3.0+ platform for simulating, analyzing, and improving transparen
 [https://roxanneardary.com/domestic-economics/](https://roxanneardary.com/domestic-economics/)  
 Domestic Economics is an AI-powered open source specification that measures and values the labor, mental work, and household production behind a functioning home using current market wages and comparable occupations. It provides a modular framework for calculating household economic contributions, lifetime labor value, replacement costs, and other measures of domestic work.  
  
-- [**EarthMetrics Module Specifications**](https://github.com/openarsenalspecs/Wiki/blob/8a5b541ed23368c5e92497ab4f21942464a58faf/EarthMetrics.md)    
+- [**EarthMetrics Module Specifications**](https://github.com/openarsenalspecs/Wiki/blob/d9e55ddb0d576470763d59e7974a326b555c9f24/EarthMetrics.md)  
 [https://roxanneardary.com/earthmetrics/](https://roxanneardary.com/earthmetrics/)  
 An open-source global database preserving historical and real-time environmental measurements under the principle of Observation Without Interpretation.  
 
