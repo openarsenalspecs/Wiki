@@ -344,7 +344,7 @@ VeritasChain is an open specification for evidence-based causal intelligence tha
 [https://roxanneardary.com/veritascode/](https://roxanneardary.com/veritascode/)  
 VeritasCode is a modular, retrieval-first, open-source AI platform that analyzes laws across federal, state, county, township, and municipal jurisdictions using evidence-backed retrieval and explainable AI. It identifies potential legal conflicts, constitutional questions, and jurisdictional inconsistencies while providing complete citations and transparent reasoning to support informed human review.
 
-- [**VigilQuantum Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/97e9317425982c93a60e2a77de9f58d20155912c/VigilQuantum.md)    
+- [**VigilQuantum Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/84196c4b6a62f595f6b833345551114f5d27869b/VigilQuantum.md)  
 [https://roxanneardary.com/vigilquantum/](https://roxanneardary.com/vigilquantum/)  
 A next-generation quantum operating system with autonomous features.
 
