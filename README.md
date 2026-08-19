@@ -44,7 +44,7 @@ A focus-oriented AI governance and reliability framework that improves long-hori
 [https://roxanneardary.com/authtrace-ai/](https://roxanneardary.com/authtrace-ai/)  
 A provenance-first AI system that verifies authorship, tracks content lineage, and transforms human knowledge into structured, licensable digital assets.
 
-- [**BankDividend Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/28692e5e46efd768855f6d272c32d0c1deea1c23/BankDividend.md)
+- [**BankDividend Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/28692e5e46efd768855f6d272c32d0c1deea1c23/BankDividend.md)  
  [https://roxanneardary.com/bankdividend/](https://roxanneardary.com/bankdividend/)  
  BankDividend is an open source AI specification that discovers, verifies, compares, and ranks banking accounts based on each user's financial criteria. It calculates interest, dividends, cashback, bonuses, fees, and projected net benefit while prioritizing federally insured institutions and prominently flagging uninsured products and costly requirements.
 
