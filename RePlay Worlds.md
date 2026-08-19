@@ -1,5 +1,6 @@
 # RePlay Worlds
 **From imagination to movie, in a click.**
+- HTML Mirror:  [https://roxanneardary.com/replay-worlds-specification/](https://roxanneardary.com/replay-worlds-specification/)  
 
 ---
 
