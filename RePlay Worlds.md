@@ -1,6 +1,7 @@
 # RePlay Worlds
-
 **From imagination to movie, in a click.**
+
+---
 
 RePlay Worlds is an open-source, AI-assisted imagination platform where children become authors, artists, composers, directors, and world builders. Rather than consuming pre-written stories, children create original characters, magical worlds, adventures, music, animations, and complete cinematic experiences from their own imagination.
 
@@ -668,14 +669,6 @@ No centralized ownership required.
 
 ---
 
-# Contributing
-
-Developers, educators, artists, musicians, writers, parents, and storytellers are welcome.
-
-Together we can build the world's largest open-source imagination platform.
-
----
-
 ## Specification Branding License (SBL)
 ### Standard
 - Fully AGPL-3.0+ compliant system
@@ -703,16 +696,10 @@ Please note the following:
 - All contributions must comply with the **AGPL-3.0+** terms.  
 - Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
   **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
-- RePlay Worlds specificiations are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- RePlay Worlds specifications are free to use with attribution. A Specification Branding License can be negotiated upon request.
 - The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.  
   Any update that adds new contributors or modifies attribution should also update `notice.md`.
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
-For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
-
----
-
-## Vision
-
-RePlay Worlds is designed to be the **ultimate open-source imagination playground for children**, where they don’t just play stories — they **create, explore, direct, and relive their own magical worlds**.
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.  
