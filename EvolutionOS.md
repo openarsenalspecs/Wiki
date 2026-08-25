@@ -1,6 +1,8 @@
 # EvolutionOS
-
 **Built for Transparency. Designed for Growth.**
+- HTML Mirror:  [https://roxanneardary.com/evolutionos-specification/](https://roxanneardary.com/evolutionos-specification/)  
+
+---
 
 EvolutionOS is a modular, multi-agent economic intelligence system designed to evaluate industry viability, forecast macroeconomic conditions, and discover alternative business ventures based on real-world market signals, capital flows, regulatory pressure, and technological disruption.
 
