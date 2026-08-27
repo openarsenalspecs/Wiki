@@ -308,7 +308,7 @@ A modular AI-driven astronomy intelligence system for the night sky.
 [https://roxanneardary.com/signalnet/](https://roxanneardary.com/signalnet/)  
 An open-source AI system analyzing public claims against actions.
 
-- **Sovereign Sheets**
+- [**Sovereign Sheets Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/bb333ffea30c9c5aee326230db726f71bf68d7bc/Sovereign%20Sheets.md)  
 [https://roxanneardary.com/sovereign-sheets/](https://roxanneardary.com/sovereign-sheets/)  
 Sovereign Sheets is an open-source, privacy-first spreadsheet and data platform that combines spreadsheets, databases, natural-language AI, specialized agents, automation, analytics, visualization, collaboration, and integrations in one modular system. Built around data sovereignty, encryption, local-first operation, interoperability, and user control, it provides a flexible foundation for personal, business, research, educational, and organizational data workflows. 
 
