@@ -364,7 +364,7 @@ WealthGuard is an open-source, privacy-first retirement and generational wealth 
 [https://roxanneardary.com/weave-foundry/](https://roxanneardary.com/weave-foundry/)  
 The intelligence layer for fabric transforming ideas into garments.
 
-- **Wingstead**  
+- [**Wingstead Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/d9deb8d8e1471f9daad2db8fef09947d54198aba/Wingstead.md)    
 [https://roxanneardary.com/wingstead/](https://roxanneardary.com/wingstead/)  
 Wingstead is an AI-powered bird education and habitat planning system that helps users understand birds, manage flocks, integrate birds into gardens and homesteads, and design healthy housing environments. It combines species and breed intelligence, husbandry, egg production, space planning, and AI-generated architectural diagrams with precise measurements, materials, and construction planning.  
 
