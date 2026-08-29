@@ -1,6 +1,8 @@
 # ProvenanceHub
+**Community-Driven Verification**
+- HTML Mirror:  [https://roxanneardary.com/provenancehub-specification/](https://roxanneardary.com/provenancehub-specification/)  
 
-**ProvenanceHub — Community-Driven Verification**
+---
 
 ProvenanceHub is an open-source provenance and lineage intelligence system designed to track the origin, evolution, and transformation of digital artifacts, specifications, and ideas over time.
 
@@ -223,14 +225,6 @@ ProvenanceHub is designed to answer a fundamental question:
 > but “how did this come to exist?”
 
 It treats creation as an evolving system of ideas rather than isolated artifacts.
-
----
-
-## Contributing
-
-See `CONTRIBUTING.md` for guidelines.
-
-All contributions must comply with AGPL-3.0+ and include proper attribution requirements defined in `notice.md`.
 
 ---
 
