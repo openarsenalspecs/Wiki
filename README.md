@@ -250,7 +250,11 @@ An open-source framework for array-level control and simulation of optical emitt
 
 - [**Plantellect Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/974676db5b12d793a0ca7a84c9745535f4f22853/Plantellect.md)    
 [https://roxanneardary.com/plantellect/](https://roxanneardary.com/plantellect/)  
-AI gardening platform identifying plants and guiding permaculture. AGPLv3  
+AI gardening platform identifying plants and guiding permaculture. AGPLv3
+
+- **PiloQuiet**  
+[https://roxanneardary.com/piloquiet/](https://roxanneardary.com/piloquiet/)  
+PiloQuiet is an AI-driven research and development specification focused on discovering permanent, pain-free, and precisely targeted hair removal technologies beyond laser and electrolysis. It systematically evaluates hair, skin, follicle biology, treatment methods, pain pathways, emerging technologies, botanical compounds, safety, patents, cost, and scientific evidence to identify innovative pathways toward permanent follicular disablement with minimal effects on surrounding tissue.  
 
 - [**Project Solstice Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/476455e23d4166980a3e57414e3868c5bf1867e3/Project%20Solstice.md)    
 [https://roxanneardary.com/project-solstice/](https://roxanneardary.com/project-solstice/)  
