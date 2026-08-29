@@ -264,7 +264,7 @@ A layered reasoning system stack transforming computation into verifiable cognit
 [https://roxanneardary.com/promptwave/](https://roxanneardary.com/promptwave/)  
 AI companion guiding creators through step-by-step image/video generation with real-time suggestions and iterative improvements. AGPLv3  
 
-- [**ProvenanceHub Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/8f78234d5c3d978b1b6614d674e1a7842c78d710/ProvenanceHub.md)    
+- [**ProvenanceHub Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/b00629b71a9106efe58314fd61ca5492d6128baa/ProvenanceHub.md)  
 [https://roxanneardary.com/provenancehub/](https://roxanneardary.com/provenancehub/)  
 An open-source, community-driven provenance and lineage intelligence system that tracks the origin, evolution, and relationships of digital artifacts, specifications, and ideas over time.  
 
