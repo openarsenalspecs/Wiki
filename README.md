@@ -246,15 +246,15 @@ A modular, human-in-the-loop AI system that detects trends, reduces content satu
 
 - [**PhotonForge Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/cf2b0fa3baeeccf221c49f417d2c87ef21b55f3a/PhotonForge.md)    
 [https://roxanneardary.com/photonforge/](https://roxanneardary.com/photonforge/)  
-An open-source framework for array-level control and simulation of optical emitter systems, enabling programmable structured light through modular scheduling, feedback, and hardware abstraction.  
+An open-source framework for array-level control and simulation of optical emitter systems, enabling programmable structured light through modular scheduling, feedback, and hardware abstraction.
+
+- [**PiloQuiet Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/1ebe6d9b97406e18f0b8a7a91bb7c0067e9fe12a/PiloQuiet.md)    
+[https://roxanneardary.com/piloquiet/](https://roxanneardary.com/piloquiet/)  
+PiloQuiet is an AI-driven research and development specification focused on discovering permanent, pain-free, and precisely targeted hair removal technologies beyond laser and electrolysis. It systematically evaluates hair, skin, follicle biology, treatment methods, pain pathways, emerging technologies, botanical compounds, safety, patents, cost, and scientific evidence to identify innovative pathways toward permanent follicular disablement with minimal effects on surrounding tissue.  
 
 - [**Plantellect Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/974676db5b12d793a0ca7a84c9745535f4f22853/Plantellect.md)    
 [https://roxanneardary.com/plantellect/](https://roxanneardary.com/plantellect/)  
 AI gardening platform identifying plants and guiding permaculture. AGPLv3
-
-- **PiloQuiet**  
-[https://roxanneardary.com/piloquiet/](https://roxanneardary.com/piloquiet/)  
-PiloQuiet is an AI-driven research and development specification focused on discovering permanent, pain-free, and precisely targeted hair removal technologies beyond laser and electrolysis. It systematically evaluates hair, skin, follicle biology, treatment methods, pain pathways, emerging technologies, botanical compounds, safety, patents, cost, and scientific evidence to identify innovative pathways toward permanent follicular disablement with minimal effects on surrounding tissue.  
 
 - [**Project Solstice Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/476455e23d4166980a3e57414e3868c5bf1867e3/Project%20Solstice.md)    
 [https://roxanneardary.com/project-solstice/](https://roxanneardary.com/project-solstice/)  
