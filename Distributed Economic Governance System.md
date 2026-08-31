@@ -1,6 +1,8 @@
 # Distributed Economic Governance System
-
 **Understanding economic systems through simulation, not assumption.**
+- HTML Mirror:  [https://roxanneardary.com/distributed-economic-governance-system-specification/](https://roxanneardary.com/distributed-economic-governance-system-specification/)  
+
+---
 
 A modular AGPL 3.0+ governance intelligence platform for analyzing business structures, modeling liability, detecting systemic fragility, and simulating economic outcomes under real-world constraints.
 
