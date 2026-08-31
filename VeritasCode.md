@@ -1,6 +1,8 @@
 # VeritasCode
-
 **One Platform. Every Jurisdiction.**
+- HTML Mirror:  [https://roxanneardary.com/veritascode-specification/](https://roxanneardary.com/veritascode-specification/)  
+
+---
 
 VeritasCode is a modular, retrieval-first legal intelligence platform designed to analyze laws across federal, state, county, township, municipal, and constitutional layers. It identifies potential contradictions, jurisdictional conflicts, overlapping authority, and constitutional questions using evidence-based AI with full source traceability.
 
