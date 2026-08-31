@@ -88,7 +88,7 @@ An AGPL-3.0+ locally hosted AI CFO platform that transforms historical financial
 [https://roxanneardary.com/creatorgrid/](https://roxanneardary.com/creatorgrid/)  
 CreatorGrid is an open source AI assistant specification designed to protect creators through comprehensive analysis of copyright, contracts, licensing, jurisdiction, AI rights, compensation, and digital ownership. It identifies potential protection gaps, contractual circumvention pathways, and prior-art loopholes while providing evidence-based insights that keep creators in control of consequential decisions.
 
-- [**Distributed Economic Governance System Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/d2925fad9fc5dc00a17978a79508fdab73772ddf/Distributed%20Economic%20Governance%20System.md)    
+- [**Distributed Economic Governance System Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/1a0b5041d8b17b996e8df414679a00a5f1bea187/Distributed%20Economic%20Governance%20System.md)   
 [https://roxanneardary.com/distributed-economic-governance-system/](https://roxanneardary.com/distributed-economic-governance-system/)  
 A modular AGPL 3.0+ platform for simulating, analyzing, and improving transparency, accountability, and structural resilience in economic and organizational systems.
 
