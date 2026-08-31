@@ -1,6 +1,8 @@
 # LicenseTrace
-
 **No origin. No build.**
+- HTML Mirror:  [https://roxanneardary.com/licensetrace-specification/](https://roxanneardary.com/licensetrace-specification/)  
+
+---
 
 LicenseTrace is a semantic software provenance and compilation system that determines whether software already exists before any code is written. It evaluates intent, searches software ecosystems, resolves origin and attribution, validates licensing, eliminates duplication, and compiles a minimal executable specification before implementation begins.
 
