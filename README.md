@@ -180,7 +180,7 @@ A jurisdictional intelligence and compliance structuring system that translates 
 [https://roxanneardary.com/license-guardian-network/](https://roxanneardary.com/license-guardian-network/)  
 License Guardian Network is a modular semantic licensing and provenance system that verifies specification attribution, detects semantic reuse, and generates structured compliance evidence across distributed repositories. It connects usage, provenance, and compliance into a unified framework designed to support AGPL-3.0+ ecosystems and optional Specification Branding License (SBL) deployment models.  
 
-- [**LicenseTrace Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/e8d818440b161e4a4bea7ce954e6b969b983c43a/LicenseTrace.md)    
+- [**LicenseTrace Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/3724ca70eb44c4c77b0f2be3f9ac566c89aec5b4/LicenseTrace.md)  
 [https://roxanneardary.com/licensetrace/](https://roxanneardary.com/licensetrace/)  
 A semantic provenance and compilation system that ensures software is traced, attributed, and only built when no existing implementation can be reused.  
 
