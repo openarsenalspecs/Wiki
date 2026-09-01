@@ -1,6 +1,8 @@
 # Commons Reasoning Network
-
 **The federated future of intelligence.**
+- HTML Mirror:  [https://roxanneardary.com/commons-reasoning-network-specification/](https://roxanneardary.com/commons-reasoning-network-specification/)  
+
+---
 
 Commons Reasoning Network (CRN) is an open-source, AGPL 3.0+ federated intelligence infrastructure for autonomous agents, distributed compute, interoperable protocols, economic systems, and cooperative governance.
 
@@ -372,10 +374,3 @@ Please note the following:
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
 For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
-
----
-
-# Final Identity
-
-**Commons Reasoning Network**  
-**The federated future of intelligence.**
