@@ -1,6 +1,8 @@
 # CivicRadar
-
 **Know the Law Before It Hits You.**
+- HTML Mirror:  [https://roxanneardary.com/civicradar-specification/](https://roxanneardary.com/civicradar-specification/)  
+
+---
 
 CivicRadar is an open-source AI-powered legislative intelligence platform that monitors, analyzes, and explains proposed legislation across U.S. federal, state, and local governments. Built using a modular architecture, CivicRadar transforms complex legislative documents into structured, searchable intelligence, helping legal professionals, journalists, researchers, policymakers, and citizens understand the legal, fiscal, and practical impact of legislation before it becomes law.
 
