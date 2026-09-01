@@ -36,7 +36,7 @@ A global AI-native, fully encrypted social network built on verified human ident
 - [**Alpha Risk Review Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/78b0c063f6e5242617335225c09171a875cfc5ad/Alpha%20Risk%20Review.md)    
 [https://roxanneardary.com/alpha-risk-review/](https://roxanneardary.com/alpha-risk-review/)  
 A modular adversarial intelligence system that stress-tests business plans to reveal structural weaknesses, failure points, and the conditions required for success.  
-- [**AuthorityCore Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/61e276f94b547630f0fff6b1f6295da7cf4ea4b3/AuthorityCore.md)    
+- [**AuthorityCore Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/e23d071803ead388f27f968847a6b6f22f994504/AuthorityCore.md)  
 [https://roxanneardary.com/authoritycore/](https://roxanneardary.com/authoritycore/)  
 A focus-oriented AI governance and reliability framework that improves long-horizon task execution through objective contracts, jurisdiction-aware reasoning, evidence-constrained retrieval, and human-in-the-loop oversight.  
 
