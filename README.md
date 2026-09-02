@@ -389,6 +389,14 @@ An open-source, AGPL-3.0+ agricultural intelligence platform optimizing resource
 
 ---
 
+# Specification Branding License (SBL)
+
+Buy the Basket: [https://roxanneardary.com/wiki/](https://roxanneardary.com/wiki/)
+
+Purchasing a Specification Basket grants the purchaser a perpetual license for attribution-free use of every existing specification included within that category, as well as any additional specifications subsequently added to the category.  
+
+---
+
 ## License & Notice Requirements
 
 The Open Arsenal Wiki Specifications are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   By contributing to any project, you agree that your contributions will also be released under this license.
