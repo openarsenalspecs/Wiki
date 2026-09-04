@@ -327,7 +327,11 @@ An open-source AI system analyzing public claims against actions.
 
 - [**Sovereign Sheets Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/bb333ffea30c9c5aee326230db726f71bf68d7bc/Sovereign%20Sheets.md)  
 [https://roxanneardary.com/sovereign-sheets/](https://roxanneardary.com/sovereign-sheets/)  
-Sovereign Sheets is an open-source, privacy-first spreadsheet and data platform that combines spreadsheets, databases, natural-language AI, specialized agents, automation, analytics, visualization, collaboration, and integrations in one modular system. Built around data sovereignty, encryption, local-first operation, interoperability, and user control, it provides a flexible foundation for personal, business, research, educational, and organizational data workflows. 
+Sovereign Sheets is an open-source, privacy-first spreadsheet and data platform that combines spreadsheets, databases, natural-language AI, specialized agents, automation, analytics, visualization, collaboration, and integrations in one modular system. Built around data sovereignty, encryption, local-first operation, interoperability, and user control, it provides a flexible foundation for personal, business, research, educational, and organizational data workflows.
+
+- [**SpecDNA Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/8518b8fb67735743eea1538b65f6f51e1c0d20b8/SpecDNA.md)  
+[https://roxanneardary.com/specdna/](https://roxanneardary.com/specdna/)  
+SpecDNA is a human directed specification framework that enables AI agents to evolve, fork, modify, and extend specifications while preserving provenance, licensing, attribution, and human intent. It provides structured intellectual property risk analysis and auditable transformation tracking to help ensure that AI driven specification evolution remains transparent, traceable, and under human control.  
 
 - [**StoryWeaver Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/ab9e8fe6d83bb0f0431c39301856bd0817a40333/StoryWeaver.md)    
 [https://roxanneardary.com/storyweaver/](https://roxanneardary.com/storyweaver/)  
