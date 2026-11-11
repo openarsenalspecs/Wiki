@@ -21,10 +21,6 @@ All specifications are designed to be adaptable across diverse technical ecosyst
 
 # Wiki Specs:
 
-- [**Archima Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/d789272b1b4a5f97202048aee3cf6a64616e370b/Archima.md)  
-[https://roxanneardary.com/archima/](https://roxanneardary.com/archima/)  
-Archima is an open source AI architectural intelligence specification that transforms architectural vision into coordinated 2D and 3D designs, schematics, building systems, and detailed construction documentation. It combines architectural co-creation, parametric modeling, architectural styles, zoning and regulatory adaptation, design validation, and modular plugins to help turn what you imagine into architecture.
-
 - [**AgoraTV Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/d4061cab6b59a99c61c4850ef04c6b40791ea2ce/AgoraTV.md)    
 [https://roxanneardary.com/agoratv/](https://roxanneardary.com/agoratv/)  
 An open-source, democratically owned global broadcasting platform that empowers independent voices through public media infrastructure, multilingual accessibility, and transparent governance.  
@@ -36,6 +32,15 @@ A global AI-native, fully encrypted social network built on verified human ident
 - [**Alpha Risk Review Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/78b0c063f6e5242617335225c09171a875cfc5ad/Alpha%20Risk%20Review.md)    
 [https://roxanneardary.com/alpha-risk-review/](https://roxanneardary.com/alpha-risk-review/)  
 A modular adversarial intelligence system that stress-tests business plans to reveal structural weaknesses, failure points, and the conditions required for success.  
+
+- [**Aquatic Forge Module Specification**](https://roxanneardary.com/aquatic-forge-specification/)  
+[https://roxanneardary.com/aquatic-forge/](https://roxanneardary.com/aquatic-forge/)  
+Aquatic Forge is an open source framework for designing and managing local seafood production systems, using AI to adapt designs to climate, weather, water conditions, species, and infrastructure. It helps communities plan aquatic food production around their own production goals.
+
+- [**Archima Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/d789272b1b4a5f97202048aee3cf6a64616e370b/Archima.md)  
+[https://roxanneardary.com/archima/](https://roxanneardary.com/archima/)  
+Archima is an open source AI architectural intelligence specification that transforms architectural vision into coordinated 2D and 3D designs, schematics, building systems, and detailed construction documentation. It combines architectural co-creation, parametric modeling, architectural styles, zoning and regulatory adaptation, design validation, and modular plugins to help turn what you imagine into architecture.
+
 - [**AuthorityCore Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/e23d071803ead388f27f968847a6b6f22f994504/AuthorityCore.md)  
 [https://roxanneardary.com/authoritycore/](https://roxanneardary.com/authoritycore/)  
 A focus-oriented AI governance and reliability framework that improves long-horizon task execution through objective contracts, jurisdiction-aware reasoning, evidence-constrained retrieval, and human-in-the-loop oversight.  
@@ -88,6 +93,10 @@ An AGPL-3.0+ locally hosted AI CFO platform that transforms historical financial
 [https://roxanneardary.com/creatorgrid/](https://roxanneardary.com/creatorgrid/)  
 CreatorGrid is an open source AI assistant specification designed to protect creators through comprehensive analysis of copyright, contracts, licensing, jurisdiction, AI rights, compensation, and digital ownership. It identifies potential protection gaps, contractual circumvention pathways, and prior-art loopholes while providing evidence-based insights that keep creators in control of consequential decisions.
 
+- [**DealSignal Module Specification**](https://roxanneardary.com/dealsignal-specification/)  
+[https://roxanneardary.com/dealsignal/](https://roxanneardary.com/dealsignal/)  
+DealSignal is an open source AI real estate investment intelligence specification for finding, valuing, and stress-testing property deals. It analyzes renovations, profitability, market risk, saleability, and exit strategies before money is committed.
+
 - [**Distributed Economic Governance System Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/1a0b5041d8b17b996e8df414679a00a5f1bea187/Distributed%20Economic%20Governance%20System.md)   
 [https://roxanneardary.com/distributed-economic-governance-system/](https://roxanneardary.com/distributed-economic-governance-system/)  
 A modular AGPL 3.0+ platform for simulating, analyzing, and improving transparency, accountability, and structural resilience in economic and organizational systems.
@@ -96,6 +105,11 @@ A modular AGPL 3.0+ platform for simulating, analyzing, and improving transparen
 [https://roxanneardary.com/domestic-economics/](https://roxanneardary.com/domestic-economics/)  
 Domestic Economics is an AI-powered open source specification that measures and values the labor, mental work, and household production behind a functioning home using current market wages and comparable occupations. It provides a modular framework for calculating household economic contributions, lifetime labor value, replacement costs, and other measures of domestic work.  
  
+
+- [**E2EAuth Module Specification**](https://roxanneardary.com/e2eauth-specification/)  
+[https://roxanneardary.com/e2eauth/](https://roxanneardary.com/e2eauth/)  
+E2EAuth is an open source, cross-platform authenticator for TOTP and HOTP codes, with end-to-end encrypted synchronization across devices. Its local-first design and trusted-contact social recovery keep account access in the owner's hands.
+
 - [**EarthMetrics Module Specifications**](https://github.com/openarsenalspecs/Wiki/blob/d9e55ddb0d576470763d59e7974a326b555c9f24/EarthMetrics.md)  
 [https://roxanneardary.com/earthmetrics/](https://roxanneardary.com/earthmetrics/)  
 An open-source global database preserving historical and real-time environmental measurements under the principle of Observation Without Interpretation.  
@@ -136,6 +150,14 @@ An open-source AI-powered debt analysis and optimization platform that evaluates
 [https://roxanneardary.com/fortimind/](https://roxanneardary.com/fortimind/)  
 Your Ethical and Encrypted Decision Partner, a human-governed AI framework focused on secure, transparent, and constitutionally aligned decision support.  
 
+- [**FundFlow Module Specification**](https://roxanneardary.com/fundflow-specification/)  
+[https://roxanneardary.com/fundflow/](https://roxanneardary.com/fundflow/)  
+FundFlow is an open source political transparency platform that tracks campaign contributions, PAC funding, corporate influence, stock trades, and lobbying in one public record. It maps the financial relationships around politicians to expose potential conflicts of interest and hold them accountable.
+
+- [**GameScan Module Specification**](https://roxanneardary.com/gamescan-specification/)  
+[https://roxanneardary.com/gamescan/](https://roxanneardary.com/gamescan/)  
+GameScan is an open source gaming accountability platform where gamers report fraud, document purchases, and track changes to their digital assets. Its AI-powered evidence analysis checks advertising claims against reality to push consumer transparency.
+
 - [**HappyHouse Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/e7a174019d5be87bb5f25e1b73de0f9d70fad86a/HappyHouse.md)  
 [https://roxanneardary.com/happyhouse/](https://roxanneardary.com/happyhouse/)  
 An AI-powered home maintenance and property intelligence platform for tracking systems, managing repairs, and predicting maintenance needs.  
@@ -145,7 +167,7 @@ An AI-powered home maintenance and property intelligence platform for tracking s
 AI platform guiding users toward win/win decisions with ethical reasoning, predictive modeling, and transparency. AGPLv3  
 
 - [**Heirloom Haven Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/10111048c6c6a92b7423c292da91796d919baa43/Heirloom%20Haven.md)    
-[https://gitlab.com/Roxanne_Ardary/heirloom-haven](https://gitlab.com/Roxanne_Ardary/heirloom-haven)  
+[https://roxanneardary.com/heirloom-haven/](https://roxanneardary.com/heirloom-haven/)  
 An open-source, AGPL-3.0+ seed exchange platform for preserving and sharing native, non-GMO, organic, and heirloom seeds through community-driven collaboration.  
 
 - [**HotSide Collective Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/92384cfe9fc8d21b566857d9839049e5bf8b24f9/HotSide%20Collective.md)    
@@ -176,8 +198,6 @@ An open-source, quantum-safe authentication platform that replaces passwords wit
 [https://roxanneardary.com/knowledge-continuum/](https://roxanneardary.com/knowledge-continuum/)  
 Knowledge Continuum is an open source modular specification designed to provide a unified framework for building, organizing, managing, sharding, licensing, distributing, and monetizing knowledge bases, datasets, and AI models. It organizes information across sectors, domains, subjects, topics, knowledge levels, datasets, models, shards, and individual assets, allowing knowledge to be managed at both broad and highly granular levels.  
 
-The specification supports provenance, versioning, integrity, quality, confidence, access control, licensing, monetization, knowledge exchange, interoperability, federation, evaluation, simulation, and agent integration. By treating knowledge as modular and independently identifiable assets, Knowledge Continuum enables organizations, institutions, developers, and knowledge creators to build flexible knowledge ecosystems while maintaining control over how individual portions of knowledge are accessed, licensed, distributed, and monetized.
-
 - [**LatticeOS Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/188379d380a767745708ae10f5bb927c46a4cf0e/LatticeOS.md)    
 [https://roxanneardary.com/latticeos/](https://roxanneardary.com/latticeos/)  
 A modular, human-in-the-loop operating system for governed multi-agent AI orchestration with structured execution, deterministic workflows, and full auditability.  
@@ -202,8 +222,12 @@ A semantic provenance and compilation system that ensures software is traced, at
 [https://roxanneardary.com/lightthroughwords/](https://roxanneardary.com/lightthroughwords/)  
 Platform analyzing historical texts to uncover emotional patterns and shared human wisdom. AGPLv3  
 
+- [**LiveCaptioner Module Specification**](https://roxanneardary.com/livecaptioner-specification/)  
+[https://roxanneardary.com/livecaptioner/](https://roxanneardary.com/livecaptioner/)  
+LiveCaptioner is an accessible, modular live captioning platform offering real-time speech-to-text transcription, multilingual translation, and two-way conversation support. Personalized accessibility features and intelligent caption assistance make communication more inclusive.
+
 - [**LumenKinetic Network Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/e7af142398665d5f3f9df0a52cdd53e4a2043165/LumenKinetic%20Network.md)    
-[https://gitlab.com/Roxanne_Ardary/lumenkinetic-network](https://gitlab.com/Roxanne_Ardary/lumenkinetic-network)  
+[https://roxanneardary.com/lumenkinetic-network/](https://roxanneardary.com/lumenkinetic-network/)  
 A modular piezoelectric surface system that converts motion into electrical energy while generating real-time spatial intelligence data from physical interactions.  
 
 - [**Lumina Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/f1e0bf613521ef5d6cc33bccb05b91340eadb7b0/Lumina.md)  
@@ -213,6 +237,10 @@ An open-source universal gaming platform that unifies global game discovery, cre
 - [**MindLedger for Real Estate Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/1c92225963d5fa25ac87a228dcb6fa1b47e0bd3f/MindLedger%20for%20Real%20Estate.md)    
 [https://roxanneardary.com/mindledger-for-real-estate/](https://roxanneardary.com/mindledger-for-real-estate/)  
 A modular, open-source real estate operating system that unifies CRM, listings, marketing, analytics, compliance, and AI automation into a single intelligent platform.  
+
+- [**MoodBooster Module Specification**](https://roxanneardary.com/moodbooster-specification/)  
+[https://roxanneardary.com/moodbooster/](https://roxanneardary.com/moodbooster/)  
+MoodBooster is an AI-powered self-awareness app that helps you reframe negative thoughts and explore positive perspectives on everyday situations. It builds self-awareness and a more optimistic outlook, summed up in its tagline: Happiness, Served Daily.
 
 - [**NeighborhoodGraph Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/13fc830f5aafc060662e20c1f11e81159fb8d92a/NeighborhoodGraph.md)    
 [https://roxanneardary.com/neighborhood-graph/](https://roxanneardary.com/neighborhood-graph/)  
@@ -225,6 +253,10 @@ An AI-driven enterprise endpoint governance and security intelligence system tha
 - [**No Lock-In Compliance Standard Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/43d281760c85a49058e333390486def4c9c1910d/No%20Lock-In%20Compliance%20Standard.md)    
 [https://roxanneardary.com/no-lock-in-compliance-standard/](https://roxanneardary.com/no-lock-in-compliance-standard/)  
 A modular open architecture and governance standard designed to eliminate vendor lock-in through fully swappable system components, portable infrastructure design, and AI-driven compliance enforcement.
+
+- [**NodeVeil Module Specification**](https://roxanneardary.com/nodeveil-specification/)  
+[https://roxanneardary.com/nodeveil/](https://roxanneardary.com/nodeveil/)  
+NodeVeil is an open source, privacy-first traceroute and network diagnostics platform with encrypted communications and distributed relays. Its intelligent path analysis delivers anonymous network insights without exposing the person measuring.
 
 - [**OmniScientia Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/129f7c81ab9e306f9a2c8c753447777a8f40e806/OmniScientia.md)    
 [https://roxanneardary.com/omniscientia/](https://roxanneardary.com/omniscientia/)  
@@ -257,6 +289,10 @@ An AGPL-3.0+ operating kernel for human capability and trajectory intelligence t
 - [**OpenLimb Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/3e1349ff6b109bc5870724ecbb372302eabdef70/OpenLimb.md)  
 [https://roxanneardary.com/openlimb/](https://roxanneardary.com/openlimb/)  
 An open-source modular robotics platform for designing and building robotic limbs, wearable systems, and industrial robotics through open hardware, AI-assisted engineering, and community-driven innovation.  
+
+- [**OpenMail Identity Module Specification**](https://roxanneardary.com/openmail-identity-specification/)  
+[https://roxanneardary.com/openmail-identity/](https://roxanneardary.com/openmail-identity/)  
+OpenMail Identity is an open infrastructure specification for portable email addresses, giving people and organizations lasting ownership of their email identity. Secure transfers and provider independence keep an address continuous even when providers change.
 
 - [**Perspective Engine Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/553621be3152e214ca58f43c7ec11ce511f08e2e/Perspective%20Engine.md)    
 [https://roxanneardary.com/perspective-engine/](https://roxanneardary.com/perspective-engine/)  
@@ -326,9 +362,29 @@ An open source, privacy-first modular game creation platform.
 [https://roxanneardary.com/saturnet/](https://roxanneardary.com/saturnet/)  
 A modular AI-driven astronomy intelligence system for the night sky.  
 
+- [**ScenarioGrid Module Specification**](https://roxanneardary.com/scenariogrid-specification/)  
+[https://roxanneardary.com/scenariogrid/](https://roxanneardary.com/scenariogrid/)  
+ScenarioGrid is an open source AI reasoning specification that analyzes evidence and evaluates IF/THEN scenarios step by step. It traces provenance, identifies contradictions, and determines logical next steps.
+
+- [**SceneMap Module Specification**](https://roxanneardary.com/scenemap-specification/)  
+[https://roxanneardary.com/scenemap/](https://roxanneardary.com/scenemap/)  
+SceneMap makes discovering local businesses easy with AI-assisted design, personalized photo-rich profiles, and interactive maps. Intelligent location-based search surfaces the right business information at the right place.
+
+- [**SenseAR Module Specification**](https://roxanneardary.com/sensear-specification/)  
+[https://roxanneardary.com/sensear/](https://roxanneardary.com/sensear/)  
+SenseAR is an open source AI-powered smart glasses platform providing real-time environmental awareness, intelligent navigation, and object recognition. Predictive hazard detection helps wearers move through the world with greater independence and accessibility.
+
 - [**SignalNet Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/9ca14255abfd181b20bcabf9be236d0958d1fcce/SignalNet.md)    
 [https://roxanneardary.com/signalnet/](https://roxanneardary.com/signalnet/)  
 An open-source AI system analyzing public claims against actions.
+
+- [**SolarVector Module Specification**](https://roxanneardary.com/solarvector-specification/)  
+[https://roxanneardary.com/solarvector/](https://roxanneardary.com/solarvector/)  
+SolarVector is an open source residential solar energy management platform with intelligent panel tracking, real-time generation monitoring, and automated battery management. It also handles grid energy routing and comprehensive kWh accounting for the home.
+
+- [**Sonaris Module Specification**](https://roxanneardary.com/sonaris-specification/)  
+[https://roxanneardary.com/sonaris/](https://roxanneardary.com/sonaris/)  
+Sonaris is a modular multi-task AI specification for exploring frequency, sound, vibration, energy, movement, matter, biology, healing, and technology. It approaches each domain through research, analysis, experimentation, and methodology development.
 
 - [**Sovereign Sheets Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/bb333ffea30c9c5aee326230db726f71bf68d7bc/Sovereign%20Sheets.md)  
 [https://roxanneardary.com/sovereign-sheets/](https://roxanneardary.com/sovereign-sheets/)  
@@ -346,6 +402,10 @@ StoryWeaver is an open, modular, and federated AI skill library that enables int
 [https://roxanneardary.com/stratum/](https://roxanneardary.com/stratum/)  
 An AI governance layer for MCP systems enforcing policies and controls.  
 
+- [**The Justice Ledger Module Specification**](https://roxanneardary.com/the-justice-ledger-specification/)  
+[https://roxanneardary.com/the-justice-ledger/](https://roxanneardary.com/the-justice-ledger/)  
+The Justice Ledger is an open source national criminal court database using AI to analyze cases, judges, and sentencing outcomes. By surfacing unusual punishments and sentencing patterns, it promotes transparency and accountability in the courts.
+
 - [**ThreadGraph Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/9c9683580a6dd11ee30859f39c03845267b4c8b7/ThreadGraph.md)    
 [https://roxanneardary.com/threadgraph/](https://roxanneardary.com/threadgraph/)  
 A modular, graph-structured agent swarm runtime for complex tasks.  
@@ -353,6 +413,10 @@ A modular, graph-structured agent swarm runtime for complex tasks.
 - [**TraceGraph OS Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/bb1d317dfd30a5314c97cad4d5c47379c05d031d/TraceGraph%20OS.md)    
 [https://roxanneardary.com/tracegraph-os/](https://roxanneardary.com/tracegraph-os/)  
 A scientific intelligence operating system mapping real science processes.  
+
+- [**ValidationOS Module Specification**](https://roxanneardary.com/validationos/)  
+[https://roxanneardary.com/validationos/](https://roxanneardary.com/validationos/)  
+ValidationOS is an open source AI assurance platform that validates, optimizes, certifies, and monitors AI models across edge devices. Testing, observability, compatibility analysis, and compliance workflows keep models trustworthy after deployment.
 
 - [**VaultCore OS Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/9fa0f06b1383a8f88238010847dde6a6f7b23077/VaultCore%20OS.md)    
 [https://roxanneardary.com/vaultcore-os/](https://roxanneardary.com/vaultcore-os/)  
@@ -365,6 +429,10 @@ A modular digital twin and runtime validation platform.
 - [**VectorMeter Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/60fbfdfa9d979cdc87bd591059e8db58e8054116/VectorMeter.md)    
 [https://roxanneardary.com/vectormeter/](https://roxanneardary.com/vectormeter/)  
 VectorMeter is an open, modular resource metering system built on the Open Metering Specification (OMS) that enables immutable, auditable tracking of compute, time, and infrastructure usage across AI, cloud, and physical environments. It provides deterministic billing and full per-agent and per-resource accountability so every charge can be traced, verified, and reproduced from raw system events.  
+
+- [**Velora Module Specification**](https://roxanneardary.com/velora-specification/)  
+[https://roxanneardary.com/velora/](https://roxanneardary.com/velora/)  
+Velora is a modular language intelligence platform for local AI, advanced language processing, retrieval, and analysis. Its extensible design supports intelligent workflows and automation that can evolve over time.
 
 - [**Vendra Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/6dba9b533250b6e6514aeac5e2ce3eb14ec21fd3/Vendra.md)    
 [https://roxanneardary.com/vendra/](https://roxanneardary.com/vendra/)  
@@ -381,6 +449,14 @@ VeritasCode is a modular, retrieval-first, open-source AI platform that analyzes
 - [**VigilQuantum Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/84196c4b6a62f595f6b833345551114f5d27869b/VigilQuantum.md)  
 [https://roxanneardary.com/vigilquantum/](https://roxanneardary.com/vigilquantum/)  
 A next-generation quantum operating system with autonomous features.
+
+- [**VitalPattern Module Specification**](https://roxanneardary.com/vitalpattern-specification/)  
+[https://roxanneardary.com/vitalpattern/](https://roxanneardary.com/vitalpattern/)  
+VitalPattern is an AI-assisted health intelligence specification connecting nutrition, fitness, health data, laboratory results, goals, and connected devices. Everything feeds one evolving personal profile that sharpens as more data arrives.
+
+- [**VoltIQ Module Specification**](https://roxanneardary.com/voltiq/)  
+[https://roxanneardary.com/voltiq/](https://roxanneardary.com/voltiq/)  
+VoltIQ is an open AGPL-3.0+ specification for intelligent energy optimization in edge devices, providing adaptive power management and AI-driven energy intelligence. Workload optimization and thermal awareness round out its modular energy management for distributed computing systems.
 
 - [**WealthGuard Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/6a9efe3de3d410f0fa288c9a742f9bd4d9d009c7/WealthGuard.md)  
 [https://roxanneardary.com/wealthguard/](https://roxanneardary.com/wealthguard/)  
@@ -401,6 +477,36 @@ Workflow Certification is an open specification for validating AI agent workflow
 - [**YieldStack Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/970c928645a4b1ed38f8dad6e3b00b1117cfeab1/YieldStack.md)    
 [https://roxanneardary.com/yieldstack/](https://roxanneardary.com/yieldstack/)  
 An open-source, AGPL-3.0+ agricultural intelligence platform optimizing resources.
+---
+
+# Specification Branding License (SBL)
+
+Buy the Basket: [https://roxanneardary.com/wiki/](https://roxanneardary.com/wiki/)
+
+Purchasing a Specification Basket grants the purchaser a perpetual license for attribution-free use of every existing specification included within that category, as well as any additional specifications subsequently added to the category.  
+
+---
+
+## License & Notice Requirements
+
+The Open Arsenal Wiki Specifications are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   By contributing to any project, you agree that your contributions will also be released under this license.
+
+Please note the following:
+
+- All contributions must comply with the **AGPL-3.0+** terms.  
+- Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
+  **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
+- Open Arsenal specificiations are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.   
+  Any update that adds new contributors or modifies attribution should also update `notice.md`. 
+- When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
+- Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
+
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
+
+**Open Arsenal Hub**  
+[https://github.com/openarsenalspecs](https://github.com/openarsenalspecs)
+
 
 ---
 
