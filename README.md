@@ -210,10 +210,6 @@ A jurisdictional intelligence and compliance structuring system that translates 
 [https://roxanneardary.com/lexcrosscheck/](https://roxanneardary.com/lexcrosscheck/)  
 LexCrosscheck is an open source legal research and retrieval specification built for verified citations, source-grounded analysis, and jurisdictional conflict detection. It supports case briefs, legal writing, legal arguments, and human oversight to help ensure legal research remains accurate, traceable, and transparent.  
 
-- [**License Guardian Network Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/09981fbc9fb03c4f9c5756ef205ed897dc7fdd2d/License%20Guardian%20Network.md)    
-[https://roxanneardary.com/license-guardian-network/](https://roxanneardary.com/license-guardian-network/)  
-License Guardian Network is a modular semantic licensing and provenance system that verifies specification attribution, detects semantic reuse, and generates structured compliance evidence across distributed repositories. It connects usage, provenance, and compliance into a unified framework designed to support AGPL-3.0+ ecosystems and optional Specification Branding License (SBL) deployment models.  
-
 - [**LicenseTrace Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/3724ca70eb44c4c77b0f2be3f9ac566c89aec5b4/LicenseTrace.md)  
 [https://roxanneardary.com/licensetrace/](https://roxanneardary.com/licensetrace/)  
 A semantic provenance and compilation system that ensures software is traced, attributed, and only built when no existing implementation can be reused.  
