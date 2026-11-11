@@ -472,37 +472,7 @@ Workflow Certification is an open specification for validating AI agent workflow
 
 - [**YieldStack Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/970c928645a4b1ed38f8dad6e3b00b1117cfeab1/YieldStack.md)    
 [https://roxanneardary.com/yieldstack/](https://roxanneardary.com/yieldstack/)  
-An open-source, AGPL-3.0+ agricultural intelligence platform optimizing resources.
----
-
-# Specification Branding License (SBL)
-
-Buy the Basket: [https://roxanneardary.com/wiki/](https://roxanneardary.com/wiki/)
-
-Purchasing a Specification Basket grants the purchaser a perpetual license for attribution-free use of every existing specification included within that category, as well as any additional specifications subsequently added to the category.  
-
----
-
-## License & Notice Requirements
-
-The Open Arsenal Wiki Specifications are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   By contributing to any project, you agree that your contributions will also be released under this license.
-
-Please note the following:
-
-- All contributions must comply with the **AGPL-3.0+** terms.  
-- Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
-  **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
-- Open Arsenal specificiations are free to use with attribution. A Specification Branding License can be negotiated upon request.
-- The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.   
-  Any update that adds new contributors or modifies attribution should also update `notice.md`. 
-- When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
-- Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
-
-For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
-
-**Open Arsenal Hub**  
-[https://github.com/openarsenalspecs](https://github.com/openarsenalspecs)
-
+An open-source, AGPL-3.0+ agricultural intelligence platform optimizing resources.  
 
 ---
 
