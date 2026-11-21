@@ -19,6 +19,26 @@ The specifications published on the Roxanne Ardary Wiki represent a broad collec
 
 All specifications are designed to be adaptable across diverse technical ecosystems and are intended to encourage collaboration, interoperability, and standards-based innovation. The AGPL licensing framework requires attribution to Roxanne Ardary, the originating specification source, when deployed, modified, or redistributed. However, Specification Branding Licenses may be negotiated with organizations that wish to deploy, commercialize, or integrate the specifications without attribution requirements, allowing enterprises, institutions, governments, and commercial operators to adopt the standards under customized branding and licensing arrangements while maintaining compliance with the underlying intellectual property and licensing terms.
 
+---
+
+### Specification FAQs
+
+**The Open Arsenal specifications are designed as foundations, not disposable products.** They define reusable architectures that can be implemented, extended, combined, modified, and adapted to changing technologies and real-world requirements. Modular design allows individual capabilities to evolve without forcing an entire system to be replaced, while vendor-neutral architecture helps preserve independence and interoperability.
+
+**Long-term infrastructure requires long-term thinking.** Open-source licensing encourages examination, reuse, modification, and collaboration, while perpetual commercial licensing can provide organizations with lasting rights to deploy a specification without making foundational infrastructure dependent on recurring licensing renewals. The objective is to create technological foundations that can remain useful as companies, technologies, platforms, and business models change.
+
+1. [Understanding the Specifications](https://roxanneardary.com/understanding-the-specifications/)
+2. [How the Specifications Are Designed](https://roxanneardary.com/how-the-specifications-are-designed/)
+3. [Building From a Specification](https://roxanneardary.com/building-from-a-specification/)
+4. [Why Modularity Matters for the Future](https://roxanneardary.com/why-modularity-matters-for-the-future/)
+5. [Interoperability and Independence](https://roxanneardary.com/interoperability-and-independence/)
+6. [Open Source and Licensing](https://roxanneardary.com/open-source-and-licensing/)
+7. [Perpetual Licensing](https://roxanneardary.com/perpetual-licensing/)
+8. [The Bigger Vision](https://roxanneardary.com/the-bigger-vision/)
+9. [Specification Branding License](https://roxanneardary.com/specification-branding-license/)
+
+---
+
 # Wiki Specs:
 
 - [**AgoraTV Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/d4061cab6b59a99c61c4850ef04c6b40791ea2ce/AgoraTV.md)    
